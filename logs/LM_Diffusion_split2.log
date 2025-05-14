@@ -1,0 +1,1031 @@
+[2025-03-23 21:50:43,310] INFO: Model's weights at ./dataset/results/weights/LM_Diffusion_split2
+[2025-03-23 21:58:18,636] INFO: Epoch-0, seen -- Mean err: 4.12, Acc: 1.00, Rec : 1.00, Class and Pose  : 1.00
+[2025-03-23 21:58:18,637] INFO: Validation time for epoch 0: 6.71 minutes
+[2025-03-23 22:09:19,131] INFO: Epoch-0, seen_occ -- Mean err: 9.39, Acc: 0.89, Rec : 0.93, Class and Pose  : 0.87
+[2025-03-23 22:09:19,132] INFO: Validation time for epoch 0: 11.01 minutes
+[2025-03-23 22:48:23,054] INFO: Model's weights at ./dataset/results/weights/LM_Diffusion_split2
+[2025-03-23 22:54:23,764] INFO: Epoch-0, seen -- Mean err: 4.12, Acc: 1.00, Rec : 1.00, Class and Pose  : 1.00
+[2025-03-23 22:54:23,765] INFO: Validation time for epoch 0: 5.84 minutes
+[2025-03-23 23:04:04,471] INFO: Epoch-0, seen_occ -- Mean err: 9.38, Acc: 0.89, Rec : 0.93, Class and Pose  : 0.87
+[2025-03-23 23:04:04,472] INFO: Validation time for epoch 0: 9.68 minutes
+[2025-03-23 23:14:28,474] INFO: Epoch-0, unseen -- Mean err: 2.48, Acc: 1.00, Rec : 1.00, Class and Pose  : 0.99
+[2025-03-23 23:14:28,474] INFO: Validation time for epoch 0: 10.40 minutes
+[2025-03-23 23:25:50,791] INFO: Epoch-0, unseen_occ -- Mean err: 10.17, Acc: 0.87, Rec : 0.86, Class and Pose  : 0.80
+[2025-03-23 23:25:50,791] INFO: Validation time for epoch 0: 11.37 minutes
+[2025-04-23 15:14:47,132] INFO: Model's weights at ./dataset/results/weights/LM_Diffusion_split2
+[2025-04-23 15:16:16,831] INFO: Learning rate: 0.0
+[2025-04-23 15:16:16,831] INFO: Epoch-0 -- Iter [1/621] loss: 1.75, (pos: 0.55, neg: 0.42)
+[2025-04-23 15:17:12,810] INFO: Learning rate: 9e-07
+[2025-04-23 15:17:12,810] INFO: Epoch-0 -- Iter [10/621] loss: 1.78, (pos: 0.53, neg: 0.40)
+[2025-04-23 15:18:14,749] INFO: Learning rate: 1.9e-06
+[2025-04-23 15:18:14,749] INFO: Epoch-0 -- Iter [20/621] loss: 1.49, (pos: 0.42, neg: 0.25)
+[2025-04-23 15:19:14,944] INFO: Learning rate: 2.9e-06
+[2025-04-23 15:19:14,945] INFO: Epoch-0 -- Iter [30/621] loss: 0.97, (pos: 0.35, neg: 0.11)
+[2025-04-23 15:20:13,978] INFO: Learning rate: 3.9e-06
+[2025-04-23 15:20:13,979] INFO: Epoch-0 -- Iter [40/621] loss: 0.79, (pos: 0.37, neg: 0.08)
+[2025-04-23 15:21:13,309] INFO: Learning rate: 4.9000000000000005e-06
+[2025-04-23 15:21:13,310] INFO: Epoch-0 -- Iter [50/621] loss: 0.48, (pos: 0.43, neg: 0.08)
+[2025-04-23 15:22:11,811] INFO: Learning rate: 5.9e-06
+[2025-04-23 15:22:11,811] INFO: Epoch-0 -- Iter [60/621] loss: 0.47, (pos: 0.43, neg: 0.07)
+[2025-04-23 15:23:10,477] INFO: Learning rate: 6.900000000000001e-06
+[2025-04-23 15:23:10,477] INFO: Epoch-0 -- Iter [70/621] loss: 0.49, (pos: 0.46, neg: 0.07)
+[2025-04-23 15:24:09,222] INFO: Learning rate: 7.9e-06
+[2025-04-23 15:24:09,222] INFO: Epoch-0 -- Iter [80/621] loss: 0.37, (pos: 0.53, neg: 0.08)
+[2025-04-23 15:25:07,165] INFO: Learning rate: 8.9e-06
+[2025-04-23 15:25:07,165] INFO: Epoch-0 -- Iter [90/621] loss: 0.43, (pos: 0.56, neg: 0.06)
+[2025-04-23 15:26:05,174] INFO: Learning rate: 9.900000000000002e-06
+[2025-04-23 15:26:05,174] INFO: Epoch-0 -- Iter [100/621] loss: 0.32, (pos: 0.57, neg: 0.08)
+[2025-04-23 15:27:03,087] INFO: Learning rate: 1.09e-05
+[2025-04-23 15:27:03,087] INFO: Epoch-0 -- Iter [110/621] loss: 0.23, (pos: 0.57, neg: 0.07)
+[2025-04-23 15:28:00,168] INFO: Learning rate: 1.19e-05
+[2025-04-23 15:28:00,168] INFO: Epoch-0 -- Iter [120/621] loss: 0.09, (pos: 0.65, neg: 0.09)
+[2025-04-23 15:28:57,372] INFO: Learning rate: 1.29e-05
+[2025-04-23 15:28:57,372] INFO: Epoch-0 -- Iter [130/621] loss: 0.16, (pos: 0.62, neg: 0.05)
+[2025-04-23 15:29:54,697] INFO: Learning rate: 1.3900000000000002e-05
+[2025-04-23 15:29:54,697] INFO: Epoch-0 -- Iter [140/621] loss: 0.12, (pos: 0.64, neg: 0.05)
+[2025-04-23 15:30:51,089] INFO: Learning rate: 1.49e-05
+[2025-04-23 15:30:51,090] INFO: Epoch-0 -- Iter [150/621] loss: 0.15, (pos: 0.61, neg: 0.03)
+[2025-04-23 15:31:47,858] INFO: Learning rate: 1.59e-05
+[2025-04-23 15:31:47,859] INFO: Epoch-0 -- Iter [160/621] loss: 0.14, (pos: 0.64, neg: 0.05)
+[2025-04-23 15:32:44,350] INFO: Learning rate: 1.69e-05
+[2025-04-23 15:32:44,350] INFO: Epoch-0 -- Iter [170/621] loss: 0.13, (pos: 0.62, neg: 0.06)
+[2025-04-23 15:33:41,152] INFO: Learning rate: 1.79e-05
+[2025-04-23 15:33:41,152] INFO: Epoch-0 -- Iter [180/621] loss: 0.12, (pos: 0.65, neg: 0.04)
+[2025-04-23 15:34:37,746] INFO: Learning rate: 1.8900000000000002e-05
+[2025-04-23 15:34:37,746] INFO: Epoch-0 -- Iter [190/621] loss: 0.09, (pos: 0.65, neg: 0.05)
+[2025-04-23 15:35:35,349] INFO: Learning rate: 1.9900000000000003e-05
+[2025-04-23 15:35:35,349] INFO: Epoch-0 -- Iter [200/621] loss: 0.08, (pos: 0.69, neg: 0.05)
+[2025-04-23 15:36:31,557] INFO: Learning rate: 2.09e-05
+[2025-04-23 15:36:31,557] INFO: Epoch-0 -- Iter [210/621] loss: 0.10, (pos: 0.69, neg: 0.05)
+[2025-04-23 15:37:28,212] INFO: Learning rate: 2.19e-05
+[2025-04-23 15:37:28,212] INFO: Epoch-0 -- Iter [220/621] loss: 0.13, (pos: 0.67, neg: 0.03)
+[2025-04-23 15:38:24,370] INFO: Learning rate: 2.29e-05
+[2025-04-23 15:38:24,370] INFO: Epoch-0 -- Iter [230/621] loss: 0.18, (pos: 0.66, neg: 0.05)
+[2025-04-23 15:39:20,582] INFO: Learning rate: 2.39e-05
+[2025-04-23 15:39:20,582] INFO: Epoch-0 -- Iter [240/621] loss: 0.13, (pos: 0.72, neg: 0.05)
+[2025-04-23 15:40:17,599] INFO: Learning rate: 2.4900000000000002e-05
+[2025-04-23 15:40:17,600] INFO: Epoch-0 -- Iter [250/621] loss: 0.12, (pos: 0.68, neg: 0.04)
+[2025-04-23 15:41:13,097] INFO: Learning rate: 2.5900000000000003e-05
+[2025-04-23 15:41:13,097] INFO: Epoch-0 -- Iter [260/621] loss: 0.18, (pos: 0.70, neg: 0.06)
+[2025-04-23 15:42:09,228] INFO: Learning rate: 2.6900000000000003e-05
+[2025-04-23 15:42:09,228] INFO: Epoch-0 -- Iter [270/621] loss: 0.36, (pos: 0.67, neg: 0.07)
+[2025-04-23 15:43:05,242] INFO: Learning rate: 2.7900000000000004e-05
+[2025-04-23 15:43:05,242] INFO: Epoch-0 -- Iter [280/621] loss: 0.09, (pos: 0.73, neg: 0.07)
+[2025-04-23 15:44:00,797] INFO: Learning rate: 2.8899999999999998e-05
+[2025-04-23 15:44:00,797] INFO: Epoch-0 -- Iter [290/621] loss: 0.06, (pos: 0.68, neg: 0.06)
+[2025-04-23 15:44:56,832] INFO: Learning rate: 2.9900000000000002e-05
+[2025-04-23 15:44:56,832] INFO: Epoch-0 -- Iter [300/621] loss: 0.18, (pos: 0.70, neg: 0.06)
+[2025-04-23 15:45:52,647] INFO: Learning rate: 3.09e-05
+[2025-04-23 15:45:52,648] INFO: Epoch-0 -- Iter [310/621] loss: 0.10, (pos: 0.71, neg: 0.03)
+[2025-04-23 15:46:47,851] INFO: Learning rate: 3.19e-05
+[2025-04-23 15:46:47,851] INFO: Epoch-0 -- Iter [320/621] loss: 0.04, (pos: 0.71, neg: 0.03)
+[2025-04-23 15:47:42,695] INFO: Learning rate: 3.29e-05
+[2025-04-23 15:47:42,696] INFO: Epoch-0 -- Iter [330/621] loss: 0.15, (pos: 0.71, neg: 0.05)
+[2025-04-23 15:48:38,624] INFO: Learning rate: 3.3900000000000004e-05
+[2025-04-23 15:48:38,625] INFO: Epoch-0 -- Iter [340/621] loss: 0.11, (pos: 0.72, neg: 0.07)
+[2025-04-23 15:49:34,681] INFO: Learning rate: 3.49e-05
+[2025-04-23 15:49:34,682] INFO: Epoch-0 -- Iter [350/621] loss: 0.05, (pos: 0.69, neg: 0.03)
+[2025-04-23 15:50:30,364] INFO: Learning rate: 3.59e-05
+[2025-04-23 15:50:30,364] INFO: Epoch-0 -- Iter [360/621] loss: 0.17, (pos: 0.69, neg: 0.04)
+[2025-04-23 15:51:26,316] INFO: Learning rate: 3.69e-05
+[2025-04-23 15:51:26,316] INFO: Epoch-0 -- Iter [370/621] loss: 0.05, (pos: 0.71, neg: 0.06)
+[2025-04-23 15:52:22,117] INFO: Learning rate: 3.79e-05
+[2025-04-23 15:52:22,118] INFO: Epoch-0 -- Iter [380/621] loss: 0.06, (pos: 0.68, neg: 0.03)
+[2025-04-23 15:53:17,845] INFO: Learning rate: 3.8900000000000004e-05
+[2025-04-23 15:53:17,845] INFO: Epoch-0 -- Iter [390/621] loss: 0.03, (pos: 0.73, neg: 0.03)
+[2025-04-23 15:54:13,711] INFO: Learning rate: 3.99e-05
+[2025-04-23 15:54:13,711] INFO: Epoch-0 -- Iter [400/621] loss: 0.05, (pos: 0.72, neg: 0.03)
+[2025-04-23 15:55:09,383] INFO: Learning rate: 4.09e-05
+[2025-04-23 15:55:09,383] INFO: Epoch-0 -- Iter [410/621] loss: 0.14, (pos: 0.74, neg: 0.09)
+[2025-04-23 15:56:05,395] INFO: Learning rate: 4.19e-05
+[2025-04-23 15:56:05,395] INFO: Epoch-0 -- Iter [420/621] loss: 0.05, (pos: 0.73, neg: 0.04)
+[2025-04-23 15:57:00,947] INFO: Learning rate: 4.29e-05
+[2025-04-23 15:57:00,947] INFO: Epoch-0 -- Iter [430/621] loss: 0.03, (pos: 0.73, neg: 0.05)
+[2025-04-23 15:57:56,629] INFO: Learning rate: 4.39e-05
+[2025-04-23 15:57:56,629] INFO: Epoch-0 -- Iter [440/621] loss: 0.05, (pos: 0.71, neg: 0.04)
+[2025-04-23 15:58:52,531] INFO: Learning rate: 4.49e-05
+[2025-04-23 15:58:52,531] INFO: Epoch-0 -- Iter [450/621] loss: 0.10, (pos: 0.70, neg: 0.05)
+[2025-04-23 15:59:48,532] INFO: Learning rate: 4.5900000000000004e-05
+[2025-04-23 15:59:48,533] INFO: Epoch-0 -- Iter [460/621] loss: 0.06, (pos: 0.73, neg: 0.03)
+[2025-04-23 16:00:44,104] INFO: Learning rate: 4.69e-05
+[2025-04-23 16:00:44,105] INFO: Epoch-0 -- Iter [470/621] loss: 0.10, (pos: 0.70, neg: 0.03)
+[2025-04-23 16:01:39,831] INFO: Learning rate: 4.79e-05
+[2025-04-23 16:01:39,831] INFO: Epoch-0 -- Iter [480/621] loss: 0.02, (pos: 0.75, neg: 0.03)
+[2025-04-23 16:02:36,109] INFO: Learning rate: 4.89e-05
+[2025-04-23 16:02:36,109] INFO: Epoch-0 -- Iter [490/621] loss: 0.05, (pos: 0.75, neg: 0.06)
+[2025-04-23 16:03:31,919] INFO: Learning rate: 4.99e-05
+[2025-04-23 16:03:31,919] INFO: Epoch-0 -- Iter [500/621] loss: 0.06, (pos: 0.73, neg: 0.05)
+[2025-04-23 16:04:28,336] INFO: Learning rate: 5.0900000000000004e-05
+[2025-04-23 16:04:28,336] INFO: Epoch-0 -- Iter [510/621] loss: 0.08, (pos: 0.74, neg: 0.05)
+[2025-04-23 16:05:24,066] INFO: Learning rate: 5.19e-05
+[2025-04-23 16:05:24,067] INFO: Epoch-0 -- Iter [520/621] loss: 0.03, (pos: 0.74, neg: 0.04)
+[2025-04-23 16:06:20,080] INFO: Learning rate: 5.2900000000000005e-05
+[2025-04-23 16:06:20,080] INFO: Epoch-0 -- Iter [530/621] loss: 0.02, (pos: 0.73, neg: 0.03)
+[2025-04-23 16:07:15,435] INFO: Learning rate: 5.390000000000001e-05
+[2025-04-23 16:07:15,435] INFO: Epoch-0 -- Iter [540/621] loss: 0.12, (pos: 0.76, neg: 0.06)
+[2025-04-23 16:08:11,470] INFO: Learning rate: 5.4900000000000006e-05
+[2025-04-23 16:08:11,470] INFO: Epoch-0 -- Iter [550/621] loss: 0.04, (pos: 0.74, neg: 0.04)
+[2025-04-23 16:09:07,132] INFO: Learning rate: 5.590000000000001e-05
+[2025-04-23 16:09:07,132] INFO: Epoch-0 -- Iter [560/621] loss: 0.06, (pos: 0.75, neg: 0.03)
+[2025-04-23 16:10:02,892] INFO: Learning rate: 5.69e-05
+[2025-04-23 16:10:02,892] INFO: Epoch-0 -- Iter [570/621] loss: 0.07, (pos: 0.74, neg: 0.03)
+[2025-04-23 16:10:58,187] INFO: Learning rate: 5.79e-05
+[2025-04-23 16:10:58,187] INFO: Epoch-0 -- Iter [580/621] loss: 0.02, (pos: 0.76, neg: 0.02)
+[2025-04-23 16:11:52,950] INFO: Learning rate: 5.89e-05
+[2025-04-23 16:11:52,951] INFO: Epoch-0 -- Iter [590/621] loss: 0.04, (pos: 0.75, neg: 0.06)
+[2025-04-23 22:36:53,165] INFO: Model's weights at ./dataset/results/weights/LM_Diffusion_split2
+[2025-04-23 22:38:18,926] INFO: Learning rate: 0.0
+[2025-04-23 22:38:18,926] INFO: Epoch-0 -- Iter [1/621] loss: 1.59, (pos: 0.53, neg: 0.38)
+[2025-04-23 22:39:12,167] INFO: Learning rate: 9e-07
+[2025-04-23 22:39:12,167] INFO: Epoch-0 -- Iter [10/621] loss: 1.67, (pos: 0.49, neg: 0.35)
+[2025-04-23 22:40:09,921] INFO: Learning rate: 1.9e-06
+[2025-04-23 22:40:09,921] INFO: Epoch-0 -- Iter [20/621] loss: 1.27, (pos: 0.41, neg: 0.22)
+[2025-04-23 22:41:07,227] INFO: Learning rate: 2.9e-06
+[2025-04-23 22:41:07,227] INFO: Epoch-0 -- Iter [30/621] loss: 0.96, (pos: 0.33, neg: 0.09)
+[2025-04-23 22:42:04,576] INFO: Learning rate: 3.9e-06
+[2025-04-23 22:42:04,576] INFO: Epoch-0 -- Iter [40/621] loss: 0.62, (pos: 0.37, neg: 0.05)
+[2025-04-23 22:43:00,650] INFO: Learning rate: 4.9000000000000005e-06
+[2025-04-23 22:43:00,650] INFO: Epoch-0 -- Iter [50/621] loss: 0.55, (pos: 0.42, neg: 0.07)
+[2025-04-23 22:43:58,147] INFO: Learning rate: 5.9e-06
+[2025-04-23 22:43:58,147] INFO: Epoch-0 -- Iter [60/621] loss: 0.36, (pos: 0.48, neg: 0.08)
+[2025-04-23 22:44:55,264] INFO: Learning rate: 6.900000000000001e-06
+[2025-04-23 22:44:55,264] INFO: Epoch-0 -- Iter [70/621] loss: 0.43, (pos: 0.48, neg: 0.08)
+[2025-04-23 22:45:51,419] INFO: Learning rate: 7.9e-06
+[2025-04-23 22:45:51,419] INFO: Epoch-0 -- Iter [80/621] loss: 0.38, (pos: 0.53, neg: 0.07)
+[2025-04-23 22:46:47,381] INFO: Learning rate: 8.9e-06
+[2025-04-23 22:46:47,381] INFO: Epoch-0 -- Iter [90/621] loss: 0.40, (pos: 0.55, neg: 0.05)
+[2025-04-23 22:47:44,077] INFO: Learning rate: 9.900000000000002e-06
+[2025-04-23 22:47:44,077] INFO: Epoch-0 -- Iter [100/621] loss: 0.34, (pos: 0.56, neg: 0.09)
+[2025-04-23 22:48:40,974] INFO: Learning rate: 1.09e-05
+[2025-04-23 22:48:40,974] INFO: Epoch-0 -- Iter [110/621] loss: 0.24, (pos: 0.58, neg: 0.07)
+[2025-04-23 22:49:36,911] INFO: Learning rate: 1.19e-05
+[2025-04-23 22:49:36,911] INFO: Epoch-0 -- Iter [120/621] loss: 0.09, (pos: 0.64, neg: 0.09)
+[2025-04-23 22:50:33,284] INFO: Learning rate: 1.29e-05
+[2025-04-23 22:50:33,284] INFO: Epoch-0 -- Iter [130/621] loss: 0.18, (pos: 0.62, neg: 0.05)
+[2025-04-23 22:51:29,245] INFO: Learning rate: 1.3900000000000002e-05
+[2025-04-23 22:51:29,245] INFO: Epoch-0 -- Iter [140/621] loss: 0.11, (pos: 0.65, neg: 0.05)
+[2025-04-23 22:52:24,878] INFO: Learning rate: 1.49e-05
+[2025-04-23 22:52:24,879] INFO: Epoch-0 -- Iter [150/621] loss: 0.15, (pos: 0.62, neg: 0.04)
+[2025-04-23 22:53:20,883] INFO: Learning rate: 1.59e-05
+[2025-04-23 22:53:20,883] INFO: Epoch-0 -- Iter [160/621] loss: 0.15, (pos: 0.65, neg: 0.06)
+[2025-04-23 22:54:16,426] INFO: Learning rate: 1.69e-05
+[2025-04-23 22:54:16,427] INFO: Epoch-0 -- Iter [170/621] loss: 0.12, (pos: 0.64, neg: 0.06)
+[2025-04-23 22:55:11,840] INFO: Learning rate: 1.79e-05
+[2025-04-23 22:55:11,840] INFO: Epoch-0 -- Iter [180/621] loss: 0.12, (pos: 0.64, neg: 0.04)
+[2025-04-23 22:56:07,635] INFO: Learning rate: 1.8900000000000002e-05
+[2025-04-23 22:56:07,635] INFO: Epoch-0 -- Iter [190/621] loss: 0.09, (pos: 0.66, neg: 0.05)
+[2025-04-23 22:57:03,517] INFO: Learning rate: 1.9900000000000003e-05
+[2025-04-23 22:57:03,517] INFO: Epoch-0 -- Iter [200/621] loss: 0.08, (pos: 0.69, neg: 0.06)
+[2025-04-23 22:57:58,926] INFO: Learning rate: 2.09e-05
+[2025-04-23 22:57:58,927] INFO: Epoch-0 -- Iter [210/621] loss: 0.08, (pos: 0.70, neg: 0.06)
+[2025-04-23 22:58:54,402] INFO: Learning rate: 2.19e-05
+[2025-04-23 22:58:54,403] INFO: Epoch-0 -- Iter [220/621] loss: 0.13, (pos: 0.67, neg: 0.03)
+[2025-04-23 22:59:49,770] INFO: Learning rate: 2.29e-05
+[2025-04-23 22:59:49,770] INFO: Epoch-0 -- Iter [230/621] loss: 0.18, (pos: 0.66, neg: 0.05)
+[2025-04-23 23:00:44,944] INFO: Learning rate: 2.39e-05
+[2025-04-23 23:00:44,945] INFO: Epoch-0 -- Iter [240/621] loss: 0.13, (pos: 0.71, neg: 0.05)
+[2025-04-23 23:01:40,556] INFO: Learning rate: 2.4900000000000002e-05
+[2025-04-23 23:01:40,556] INFO: Epoch-0 -- Iter [250/621] loss: 0.11, (pos: 0.68, neg: 0.05)
+[2025-04-23 23:02:35,565] INFO: Learning rate: 2.5900000000000003e-05
+[2025-04-23 23:02:35,565] INFO: Epoch-0 -- Iter [260/621] loss: 0.18, (pos: 0.70, neg: 0.06)
+[2025-04-23 23:03:31,113] INFO: Learning rate: 2.6900000000000003e-05
+[2025-04-23 23:03:31,113] INFO: Epoch-0 -- Iter [270/621] loss: 0.33, (pos: 0.66, neg: 0.06)
+[2025-04-23 23:04:25,894] INFO: Learning rate: 2.7900000000000004e-05
+[2025-04-23 23:04:25,895] INFO: Epoch-0 -- Iter [280/621] loss: 0.09, (pos: 0.72, neg: 0.07)
+[2025-04-23 23:05:20,317] INFO: Learning rate: 2.8899999999999998e-05
+[2025-04-23 23:05:20,317] INFO: Epoch-0 -- Iter [290/621] loss: 0.06, (pos: 0.67, neg: 0.06)
+[2025-04-23 23:06:15,124] INFO: Learning rate: 2.9900000000000002e-05
+[2025-04-23 23:06:15,125] INFO: Epoch-0 -- Iter [300/621] loss: 0.17, (pos: 0.70, neg: 0.07)
+[2025-04-23 23:07:10,368] INFO: Learning rate: 3.09e-05
+[2025-04-23 23:07:10,368] INFO: Epoch-0 -- Iter [310/621] loss: 0.11, (pos: 0.71, neg: 0.04)
+[2025-04-23 23:08:04,883] INFO: Learning rate: 3.19e-05
+[2025-04-23 23:08:04,884] INFO: Epoch-0 -- Iter [320/621] loss: 0.05, (pos: 0.70, neg: 0.03)
+[2025-04-23 23:08:59,920] INFO: Learning rate: 3.29e-05
+[2025-04-23 23:08:59,920] INFO: Epoch-0 -- Iter [330/621] loss: 0.16, (pos: 0.70, neg: 0.06)
+[2025-04-23 23:09:54,416] INFO: Learning rate: 3.3900000000000004e-05
+[2025-04-23 23:09:54,416] INFO: Epoch-0 -- Iter [340/621] loss: 0.12, (pos: 0.72, neg: 0.08)
+[2025-04-23 23:10:49,218] INFO: Learning rate: 3.49e-05
+[2025-04-23 23:10:49,219] INFO: Epoch-0 -- Iter [350/621] loss: 0.05, (pos: 0.70, neg: 0.02)
+[2025-04-23 23:11:43,478] INFO: Learning rate: 3.59e-05
+[2025-04-23 23:11:43,479] INFO: Epoch-0 -- Iter [360/621] loss: 0.16, (pos: 0.70, neg: 0.05)
+[2025-04-23 23:12:37,932] INFO: Learning rate: 3.69e-05
+[2025-04-23 23:12:37,932] INFO: Epoch-0 -- Iter [370/621] loss: 0.06, (pos: 0.71, neg: 0.06)
+[2025-04-23 23:13:32,224] INFO: Learning rate: 3.79e-05
+[2025-04-23 23:13:32,225] INFO: Epoch-0 -- Iter [380/621] loss: 0.09, (pos: 0.68, neg: 0.02)
+[2025-04-23 23:14:26,611] INFO: Learning rate: 3.8900000000000004e-05
+[2025-04-23 23:14:26,611] INFO: Epoch-0 -- Iter [390/621] loss: 0.03, (pos: 0.73, neg: 0.03)
+[2025-04-23 23:15:21,553] INFO: Learning rate: 3.99e-05
+[2025-04-23 23:15:21,553] INFO: Epoch-0 -- Iter [400/621] loss: 0.05, (pos: 0.72, neg: 0.03)
+[2025-04-23 23:16:16,247] INFO: Learning rate: 4.09e-05
+[2025-04-23 23:16:16,247] INFO: Epoch-0 -- Iter [410/621] loss: 0.15, (pos: 0.74, neg: 0.08)
+[2025-04-23 23:17:10,635] INFO: Learning rate: 4.19e-05
+[2025-04-23 23:17:10,635] INFO: Epoch-0 -- Iter [420/621] loss: 0.05, (pos: 0.72, neg: 0.04)
+[2025-04-23 23:18:05,276] INFO: Learning rate: 4.29e-05
+[2025-04-23 23:18:05,276] INFO: Epoch-0 -- Iter [430/621] loss: 0.03, (pos: 0.73, neg: 0.05)
+[2025-04-23 23:18:59,437] INFO: Learning rate: 4.39e-05
+[2025-04-23 23:18:59,437] INFO: Epoch-0 -- Iter [440/621] loss: 0.05, (pos: 0.72, neg: 0.05)
+[2025-04-23 23:19:53,897] INFO: Learning rate: 4.49e-05
+[2025-04-23 23:19:53,898] INFO: Epoch-0 -- Iter [450/621] loss: 0.09, (pos: 0.71, neg: 0.05)
+[2025-04-23 23:20:47,916] INFO: Learning rate: 4.5900000000000004e-05
+[2025-04-23 23:20:47,916] INFO: Epoch-0 -- Iter [460/621] loss: 0.06, (pos: 0.73, neg: 0.04)
+[2025-04-23 23:21:42,982] INFO: Learning rate: 4.69e-05
+[2025-04-23 23:21:42,982] INFO: Epoch-0 -- Iter [470/621] loss: 0.09, (pos: 0.71, neg: 0.03)
+[2025-04-23 23:22:36,926] INFO: Learning rate: 4.79e-05
+[2025-04-23 23:22:36,927] INFO: Epoch-0 -- Iter [480/621] loss: 0.02, (pos: 0.75, neg: 0.04)
+[2025-04-23 23:23:31,276] INFO: Learning rate: 4.89e-05
+[2025-04-23 23:23:31,276] INFO: Epoch-0 -- Iter [490/621] loss: 0.05, (pos: 0.74, neg: 0.07)
+[2025-04-23 23:24:25,814] INFO: Learning rate: 4.99e-05
+[2025-04-23 23:24:25,814] INFO: Epoch-0 -- Iter [500/621] loss: 0.06, (pos: 0.73, neg: 0.04)
+[2025-04-23 23:25:19,990] INFO: Learning rate: 5.0900000000000004e-05
+[2025-04-23 23:25:19,990] INFO: Epoch-0 -- Iter [510/621] loss: 0.09, (pos: 0.74, neg: 0.06)
+[2025-04-23 23:26:14,136] INFO: Learning rate: 5.19e-05
+[2025-04-23 23:26:14,137] INFO: Epoch-0 -- Iter [520/621] loss: 0.03, (pos: 0.75, neg: 0.04)
+[2025-04-23 23:27:08,300] INFO: Learning rate: 5.2900000000000005e-05
+[2025-04-23 23:27:08,301] INFO: Epoch-0 -- Iter [530/621] loss: 0.02, (pos: 0.73, neg: 0.04)
+[2025-04-23 23:28:02,387] INFO: Learning rate: 5.390000000000001e-05
+[2025-04-23 23:28:02,387] INFO: Epoch-0 -- Iter [540/621] loss: 0.11, (pos: 0.75, neg: 0.06)
+[2025-04-23 23:28:56,176] INFO: Learning rate: 5.4900000000000006e-05
+[2025-04-23 23:28:56,177] INFO: Epoch-0 -- Iter [550/621] loss: 0.04, (pos: 0.73, neg: 0.04)
+[2025-04-23 23:29:49,829] INFO: Learning rate: 5.590000000000001e-05
+[2025-04-23 23:29:49,829] INFO: Epoch-0 -- Iter [560/621] loss: 0.05, (pos: 0.76, neg: 0.03)
+[2025-04-23 23:30:44,007] INFO: Learning rate: 5.69e-05
+[2025-04-23 23:30:44,007] INFO: Epoch-0 -- Iter [570/621] loss: 0.07, (pos: 0.74, neg: 0.03)
+[2025-04-23 23:31:37,433] INFO: Learning rate: 5.79e-05
+[2025-04-23 23:31:37,433] INFO: Epoch-0 -- Iter [580/621] loss: 0.02, (pos: 0.76, neg: 0.02)
+[2025-04-23 23:32:31,048] INFO: Learning rate: 5.89e-05
+[2025-04-23 23:32:31,048] INFO: Epoch-0 -- Iter [590/621] loss: 0.03, (pos: 0.76, neg: 0.07)
+[2025-04-24 00:14:19,441] INFO: Model's weights at ./dataset/results/weights/LM_Diffusion_split2
+[2025-04-24 00:15:42,038] INFO: Learning rate: 0.0
+[2025-04-24 00:15:42,038] INFO: Epoch-0 -- Iter [1/621] loss: 1.55, (pos: 0.48, neg: 0.33)
+[2025-04-24 00:16:35,121] INFO: Learning rate: 9e-07
+[2025-04-24 00:16:35,122] INFO: Epoch-0 -- Iter [10/621] loss: 1.60, (pos: 0.44, neg: 0.29)
+[2025-04-24 00:17:33,632] INFO: Learning rate: 1.9e-06
+[2025-04-24 00:17:33,633] INFO: Epoch-0 -- Iter [20/621] loss: 1.47, (pos: 0.34, neg: 0.18)
+[2025-04-24 00:18:30,641] INFO: Learning rate: 2.9e-06
+[2025-04-24 00:18:30,642] INFO: Epoch-0 -- Iter [30/621] loss: 0.78, (pos: 0.33, neg: 0.05)
+[2025-04-24 00:19:27,997] INFO: Learning rate: 3.9e-06
+[2025-04-24 00:19:27,998] INFO: Epoch-0 -- Iter [40/621] loss: 0.79, (pos: 0.36, neg: 0.07)
+[2025-04-24 00:20:25,026] INFO: Learning rate: 4.9000000000000005e-06
+[2025-04-24 00:20:25,026] INFO: Epoch-0 -- Iter [50/621] loss: 0.52, (pos: 0.43, neg: 0.08)
+[2025-04-24 00:21:21,434] INFO: Learning rate: 5.9e-06
+[2025-04-24 00:21:21,435] INFO: Epoch-0 -- Iter [60/621] loss: 0.36, (pos: 0.48, neg: 0.07)
+[2025-04-24 00:22:18,174] INFO: Learning rate: 6.900000000000001e-06
+[2025-04-24 00:22:18,174] INFO: Epoch-0 -- Iter [70/621] loss: 0.45, (pos: 0.48, neg: 0.07)
+[2025-04-24 00:23:14,534] INFO: Learning rate: 7.9e-06
+[2025-04-24 00:23:14,534] INFO: Epoch-0 -- Iter [80/621] loss: 0.38, (pos: 0.54, neg: 0.09)
+[2025-04-24 00:24:10,467] INFO: Learning rate: 8.9e-06
+[2025-04-24 00:24:10,467] INFO: Epoch-0 -- Iter [90/621] loss: 0.32, (pos: 0.56, neg: 0.05)
+[2025-04-24 00:25:06,964] INFO: Learning rate: 9.900000000000002e-06
+[2025-04-24 00:25:06,964] INFO: Epoch-0 -- Iter [100/621] loss: 0.31, (pos: 0.56, neg: 0.08)
+[2025-04-24 00:26:03,117] INFO: Learning rate: 1.09e-05
+[2025-04-24 00:26:03,118] INFO: Epoch-0 -- Iter [110/621] loss: 0.23, (pos: 0.56, neg: 0.07)
+[2025-04-24 00:26:59,376] INFO: Learning rate: 1.19e-05
+[2025-04-24 00:26:59,377] INFO: Epoch-0 -- Iter [120/621] loss: 0.11, (pos: 0.62, neg: 0.08)
+[2025-04-24 00:27:55,437] INFO: Learning rate: 1.29e-05
+[2025-04-24 00:27:55,437] INFO: Epoch-0 -- Iter [130/621] loss: 0.17, (pos: 0.63, neg: 0.06)
+[2025-04-24 00:28:51,187] INFO: Learning rate: 1.3900000000000002e-05
+[2025-04-24 00:28:51,187] INFO: Epoch-0 -- Iter [140/621] loss: 0.12, (pos: 0.63, neg: 0.05)
+[2025-04-24 00:29:47,191] INFO: Learning rate: 1.49e-05
+[2025-04-24 00:29:47,192] INFO: Epoch-0 -- Iter [150/621] loss: 0.13, (pos: 0.62, neg: 0.04)
+[2025-04-24 00:30:42,815] INFO: Learning rate: 1.59e-05
+[2025-04-24 00:30:42,815] INFO: Epoch-0 -- Iter [160/621] loss: 0.15, (pos: 0.65, neg: 0.06)
+[2025-04-24 00:31:37,836] INFO: Learning rate: 1.69e-05
+[2025-04-24 00:31:37,836] INFO: Epoch-0 -- Iter [170/621] loss: 0.14, (pos: 0.62, neg: 0.07)
+[2025-04-24 00:32:33,562] INFO: Learning rate: 1.79e-05
+[2025-04-24 00:32:33,563] INFO: Epoch-0 -- Iter [180/621] loss: 0.15, (pos: 0.63, neg: 0.03)
+[2025-04-24 00:33:28,809] INFO: Learning rate: 1.8900000000000002e-05
+[2025-04-24 00:33:28,809] INFO: Epoch-0 -- Iter [190/621] loss: 0.09, (pos: 0.66, neg: 0.05)
+[2025-04-24 00:34:24,702] INFO: Learning rate: 1.9900000000000003e-05
+[2025-04-24 00:34:24,703] INFO: Epoch-0 -- Iter [200/621] loss: 0.09, (pos: 0.69, neg: 0.06)
+[2025-04-24 00:35:20,135] INFO: Learning rate: 2.09e-05
+[2025-04-24 00:35:20,135] INFO: Epoch-0 -- Iter [210/621] loss: 0.10, (pos: 0.70, neg: 0.07)
+[2025-04-24 00:36:14,742] INFO: Learning rate: 2.19e-05
+[2025-04-24 00:36:14,742] INFO: Epoch-0 -- Iter [220/621] loss: 0.12, (pos: 0.67, neg: 0.04)
+[2025-04-24 00:37:09,989] INFO: Learning rate: 2.29e-05
+[2025-04-24 00:37:09,989] INFO: Epoch-0 -- Iter [230/621] loss: 0.19, (pos: 0.67, neg: 0.07)
+[2025-04-24 00:38:05,280] INFO: Learning rate: 2.39e-05
+[2025-04-24 00:38:05,281] INFO: Epoch-0 -- Iter [240/621] loss: 0.14, (pos: 0.72, neg: 0.05)
+[2025-04-24 00:39:00,829] INFO: Learning rate: 2.4900000000000002e-05
+[2025-04-24 00:39:00,830] INFO: Epoch-0 -- Iter [250/621] loss: 0.11, (pos: 0.69, neg: 0.05)
+[2025-04-24 00:39:55,191] INFO: Learning rate: 2.5900000000000003e-05
+[2025-04-24 00:39:55,192] INFO: Epoch-0 -- Iter [260/621] loss: 0.17, (pos: 0.71, neg: 0.06)
+[2025-04-24 00:40:50,038] INFO: Learning rate: 2.6900000000000003e-05
+[2025-04-24 00:40:50,039] INFO: Epoch-0 -- Iter [270/621] loss: 0.37, (pos: 0.66, neg: 0.07)
+[2025-04-24 00:41:44,845] INFO: Learning rate: 2.7900000000000004e-05
+[2025-04-24 00:41:44,845] INFO: Epoch-0 -- Iter [280/621] loss: 0.10, (pos: 0.73, neg: 0.08)
+[2025-04-24 00:42:39,397] INFO: Learning rate: 2.8899999999999998e-05
+[2025-04-24 00:42:39,397] INFO: Epoch-0 -- Iter [290/621] loss: 0.05, (pos: 0.68, neg: 0.05)
+[2025-04-24 00:43:34,005] INFO: Learning rate: 2.9900000000000002e-05
+[2025-04-24 00:43:34,005] INFO: Epoch-0 -- Iter [300/621] loss: 0.18, (pos: 0.70, neg: 0.06)
+[2025-04-24 00:44:28,927] INFO: Learning rate: 3.09e-05
+[2025-04-24 00:44:28,927] INFO: Epoch-0 -- Iter [310/621] loss: 0.11, (pos: 0.71, neg: 0.04)
+[2025-04-24 00:45:23,476] INFO: Learning rate: 3.19e-05
+[2025-04-24 00:45:23,477] INFO: Epoch-0 -- Iter [320/621] loss: 0.05, (pos: 0.70, neg: 0.04)
+[2025-04-24 00:46:17,369] INFO: Learning rate: 3.29e-05
+[2025-04-24 00:46:17,370] INFO: Epoch-0 -- Iter [330/621] loss: 0.16, (pos: 0.70, neg: 0.05)
+[2025-04-24 00:47:12,203] INFO: Learning rate: 3.3900000000000004e-05
+[2025-04-24 00:47:12,204] INFO: Epoch-0 -- Iter [340/621] loss: 0.11, (pos: 0.73, neg: 0.07)
+[2025-04-24 00:48:06,352] INFO: Learning rate: 3.49e-05
+[2025-04-24 00:48:06,353] INFO: Epoch-0 -- Iter [350/621] loss: 0.04, (pos: 0.69, neg: 0.02)
+[2025-04-24 00:49:00,128] INFO: Learning rate: 3.59e-05
+[2025-04-24 00:49:00,128] INFO: Epoch-0 -- Iter [360/621] loss: 0.17, (pos: 0.70, neg: 0.05)
+[2025-04-24 00:49:54,690] INFO: Learning rate: 3.69e-05
+[2025-04-24 00:49:54,690] INFO: Epoch-0 -- Iter [370/621] loss: 0.05, (pos: 0.70, neg: 0.06)
+[2025-04-24 00:50:48,954] INFO: Learning rate: 3.79e-05
+[2025-04-24 00:50:48,954] INFO: Epoch-0 -- Iter [380/621] loss: 0.08, (pos: 0.68, neg: 0.03)
+[2025-04-24 00:51:43,958] INFO: Learning rate: 3.8900000000000004e-05
+[2025-04-24 00:51:43,958] INFO: Epoch-0 -- Iter [390/621] loss: 0.03, (pos: 0.72, neg: 0.04)
+[2025-04-24 00:52:39,595] INFO: Learning rate: 3.99e-05
+[2025-04-24 00:52:39,595] INFO: Epoch-0 -- Iter [400/621] loss: 0.06, (pos: 0.73, neg: 0.04)
+[2025-04-24 00:53:34,223] INFO: Learning rate: 4.09e-05
+[2025-04-24 00:53:34,223] INFO: Epoch-0 -- Iter [410/621] loss: 0.14, (pos: 0.74, neg: 0.08)
+[2025-04-24 00:54:28,387] INFO: Learning rate: 4.19e-05
+[2025-04-24 00:54:28,387] INFO: Epoch-0 -- Iter [420/621] loss: 0.05, (pos: 0.71, neg: 0.04)
+[2025-04-24 00:55:22,942] INFO: Learning rate: 4.29e-05
+[2025-04-24 00:55:22,943] INFO: Epoch-0 -- Iter [430/621] loss: 0.03, (pos: 0.73, neg: 0.05)
+[2025-04-24 00:56:17,442] INFO: Learning rate: 4.39e-05
+[2025-04-24 00:56:17,442] INFO: Epoch-0 -- Iter [440/621] loss: 0.05, (pos: 0.71, neg: 0.05)
+[2025-04-24 00:57:11,872] INFO: Learning rate: 4.49e-05
+[2025-04-24 00:57:11,872] INFO: Epoch-0 -- Iter [450/621] loss: 0.09, (pos: 0.70, neg: 0.05)
+[2025-04-24 00:58:06,364] INFO: Learning rate: 4.5900000000000004e-05
+[2025-04-24 00:58:06,364] INFO: Epoch-0 -- Iter [460/621] loss: 0.06, (pos: 0.73, neg: 0.04)
+[2025-04-24 00:59:00,558] INFO: Learning rate: 4.69e-05
+[2025-04-24 00:59:00,559] INFO: Epoch-0 -- Iter [470/621] loss: 0.10, (pos: 0.70, neg: 0.03)
+[2025-04-24 00:59:54,616] INFO: Learning rate: 4.79e-05
+[2025-04-24 00:59:54,616] INFO: Epoch-0 -- Iter [480/621] loss: 0.02, (pos: 0.75, neg: 0.03)
+[2025-04-24 01:00:49,409] INFO: Learning rate: 4.89e-05
+[2025-04-24 01:00:49,409] INFO: Epoch-0 -- Iter [490/621] loss: 0.05, (pos: 0.74, neg: 0.06)
+[2025-04-24 01:01:43,952] INFO: Learning rate: 4.99e-05
+[2025-04-24 01:01:43,952] INFO: Epoch-0 -- Iter [500/621] loss: 0.06, (pos: 0.72, neg: 0.05)
+[2025-04-24 01:02:39,035] INFO: Learning rate: 5.0900000000000004e-05
+[2025-04-24 01:02:39,036] INFO: Epoch-0 -- Iter [510/621] loss: 0.08, (pos: 0.74, neg: 0.06)
+[2025-04-24 01:03:33,068] INFO: Learning rate: 5.19e-05
+[2025-04-24 01:03:33,068] INFO: Epoch-0 -- Iter [520/621] loss: 0.03, (pos: 0.75, neg: 0.04)
+[2025-04-24 01:04:27,018] INFO: Learning rate: 5.2900000000000005e-05
+[2025-04-24 01:04:27,018] INFO: Epoch-0 -- Iter [530/621] loss: 0.03, (pos: 0.74, neg: 0.04)
+[2025-04-24 01:05:21,254] INFO: Learning rate: 5.390000000000001e-05
+[2025-04-24 01:05:21,254] INFO: Epoch-0 -- Iter [540/621] loss: 0.11, (pos: 0.75, neg: 0.05)
+[2025-04-24 01:06:15,337] INFO: Learning rate: 5.4900000000000006e-05
+[2025-04-24 01:06:15,337] INFO: Epoch-0 -- Iter [550/621] loss: 0.04, (pos: 0.73, neg: 0.04)
+[2025-04-24 01:07:09,297] INFO: Learning rate: 5.590000000000001e-05
+[2025-04-24 01:07:09,297] INFO: Epoch-0 -- Iter [560/621] loss: 0.06, (pos: 0.75, neg: 0.03)
+[2025-04-24 01:08:02,791] INFO: Learning rate: 5.69e-05
+[2025-04-24 01:08:02,791] INFO: Epoch-0 -- Iter [570/621] loss: 0.06, (pos: 0.73, neg: 0.03)
+[2025-04-24 01:08:56,829] INFO: Learning rate: 5.79e-05
+[2025-04-24 01:08:56,830] INFO: Epoch-0 -- Iter [580/621] loss: 0.02, (pos: 0.77, neg: 0.03)
+[2025-04-24 01:09:50,501] INFO: Learning rate: 5.89e-05
+[2025-04-24 01:09:50,501] INFO: Epoch-0 -- Iter [590/621] loss: 0.03, (pos: 0.76, neg: 0.05)
+[2025-04-24 01:10:44,708] INFO: Learning rate: 5.99e-05
+[2025-04-24 01:10:44,708] INFO: Epoch-0 -- Iter [600/621] loss: 0.02, (pos: 0.73, neg: 0.03)
+[2025-04-24 01:11:38,920] INFO: Learning rate: 6.09e-05
+[2025-04-24 01:11:38,920] INFO: Epoch-0 -- Iter [610/621] loss: 0.04, (pos: 0.74, neg: 0.04)
+[2025-04-24 01:12:33,637] INFO: Learning rate: 6.19e-05
+[2025-04-24 01:12:33,637] INFO: Epoch-0 -- Iter [620/621] loss: 0.03, (pos: 0.74, neg: 0.06)
+[2025-04-24 01:12:38,189] INFO: Training time for epoch 0: 57.44 minutes
+[2025-04-24 01:23:15,137] INFO: Epoch-0, seen -- Mean err: 4.13, Acc: 1.00, Rec : 1.00, Class and Pose  : 1.00
+[2025-04-24 01:23:15,137] INFO: Validation time for epoch 0: 10.62 minutes
+[2025-04-24 01:39:51,585] INFO: Epoch-0, seen_occ -- Mean err: 8.97, Acc: 0.89, Rec : 0.94, Class and Pose  : 0.87
+[2025-04-24 01:39:51,585] INFO: Validation time for epoch 0: 16.61 minutes
+[2025-04-24 01:57:41,312] INFO: Epoch-0, unseen -- Mean err: 2.47, Acc: 0.99, Rec : 1.00, Class and Pose  : 0.99
+[2025-04-24 01:57:41,312] INFO: Validation time for epoch 0: 17.83 minutes
+[2025-04-24 02:14:55,386] INFO: Epoch-0, unseen_occ -- Mean err: 10.15, Acc: 0.87, Rec : 0.85, Class and Pose  : 0.79
+[2025-04-24 02:14:55,386] INFO: Validation time for epoch 0: 17.23 minutes
+[2025-04-24 02:14:55,386] INFO: 
+Epoch-0: train_loss=0.1919528703998635, seen=0.9959225280326196, seen_occ=0.8741648106904236, unseen=0.9948707427164553, unseen_occ=0.7891502436956987 
+
+
+[2025-04-24 02:15:01,052] INFO: Learning rate: 6.21e-05
+[2025-04-24 02:15:01,052] INFO: Epoch-1 -- Iter [1/621] loss: 0.03, (pos: 0.76, neg: 0.06)
+[2025-04-24 02:15:47,417] INFO: Learning rate: 6.3e-05
+[2025-04-24 02:15:47,417] INFO: Epoch-1 -- Iter [10/621] loss: 0.02, (pos: 0.73, neg: 0.04)
+[2025-04-24 02:16:38,948] INFO: Learning rate: 6.400000000000001e-05
+[2025-04-24 02:16:38,948] INFO: Epoch-1 -- Iter [20/621] loss: 0.06, (pos: 0.73, neg: 0.04)
+[2025-04-24 02:17:30,279] INFO: Learning rate: 6.500000000000001e-05
+[2025-04-24 02:17:30,279] INFO: Epoch-1 -- Iter [30/621] loss: 0.02, (pos: 0.74, neg: 0.05)
+[2025-04-24 02:18:21,280] INFO: Learning rate: 6.6e-05
+[2025-04-24 02:18:21,280] INFO: Epoch-1 -- Iter [40/621] loss: 0.03, (pos: 0.75, neg: 0.03)
+[2025-04-24 02:19:12,298] INFO: Learning rate: 6.7e-05
+[2025-04-24 02:19:12,298] INFO: Epoch-1 -- Iter [50/621] loss: 0.02, (pos: 0.77, neg: 0.04)
+[2025-04-24 02:20:03,278] INFO: Learning rate: 6.800000000000001e-05
+[2025-04-24 02:20:03,279] INFO: Epoch-1 -- Iter [60/621] loss: 0.03, (pos: 0.75, neg: 0.07)
+[2025-04-24 02:20:53,920] INFO: Learning rate: 6.9e-05
+[2025-04-24 02:20:53,920] INFO: Epoch-1 -- Iter [70/621] loss: 0.05, (pos: 0.73, neg: 0.04)
+[2025-04-24 02:21:44,839] INFO: Learning rate: 7e-05
+[2025-04-24 02:21:44,839] INFO: Epoch-1 -- Iter [80/621] loss: 0.11, (pos: 0.76, neg: 0.06)
+[2025-04-24 02:22:36,194] INFO: Learning rate: 7.1e-05
+[2025-04-24 02:22:36,194] INFO: Epoch-1 -- Iter [90/621] loss: 0.12, (pos: 0.75, neg: 0.08)
+[2025-04-24 02:23:27,045] INFO: Learning rate: 7.2e-05
+[2025-04-24 02:23:27,045] INFO: Epoch-1 -- Iter [100/621] loss: 0.13, (pos: 0.73, neg: 0.07)
+[2025-04-24 02:24:17,683] INFO: Learning rate: 7.3e-05
+[2025-04-24 02:24:17,683] INFO: Epoch-1 -- Iter [110/621] loss: 0.08, (pos: 0.75, neg: 0.06)
+[2025-04-24 02:25:08,590] INFO: Learning rate: 7.4e-05
+[2025-04-24 02:25:08,590] INFO: Epoch-1 -- Iter [120/621] loss: 0.02, (pos: 0.78, neg: 0.04)
+[2025-04-24 02:25:59,081] INFO: Learning rate: 7.500000000000001e-05
+[2025-04-24 02:25:59,081] INFO: Epoch-1 -- Iter [130/621] loss: 0.07, (pos: 0.77, neg: 0.04)
+[2025-04-24 02:26:49,939] INFO: Learning rate: 7.6e-05
+[2025-04-24 02:26:49,940] INFO: Epoch-1 -- Iter [140/621] loss: 0.02, (pos: 0.76, neg: 0.04)
+[2025-04-24 02:27:40,722] INFO: Learning rate: 7.7e-05
+[2025-04-24 02:27:40,722] INFO: Epoch-1 -- Iter [150/621] loss: 0.03, (pos: 0.74, neg: 0.04)
+[2025-04-24 02:28:31,337] INFO: Learning rate: 7.800000000000001e-05
+[2025-04-24 02:28:31,337] INFO: Epoch-1 -- Iter [160/621] loss: 0.08, (pos: 0.76, neg: 0.04)
+[2025-04-24 02:29:21,745] INFO: Learning rate: 7.900000000000001e-05
+[2025-04-24 02:29:21,745] INFO: Epoch-1 -- Iter [170/621] loss: 0.06, (pos: 0.73, neg: 0.04)
+[2025-04-24 02:30:12,233] INFO: Learning rate: 8e-05
+[2025-04-24 02:30:12,233] INFO: Epoch-1 -- Iter [180/621] loss: 0.07, (pos: 0.74, neg: 0.04)
+[2025-04-24 02:31:02,621] INFO: Learning rate: 8.1e-05
+[2025-04-24 02:31:02,621] INFO: Epoch-1 -- Iter [190/621] loss: 0.04, (pos: 0.74, neg: 0.03)
+[2025-04-24 02:31:53,378] INFO: Learning rate: 8.2e-05
+[2025-04-24 02:31:53,379] INFO: Epoch-1 -- Iter [200/621] loss: 0.02, (pos: 0.77, neg: 0.06)
+[2025-04-24 02:32:43,993] INFO: Learning rate: 8.3e-05
+[2025-04-24 02:32:43,993] INFO: Epoch-1 -- Iter [210/621] loss: 0.04, (pos: 0.78, neg: 0.06)
+[2025-04-24 02:33:34,310] INFO: Learning rate: 8.4e-05
+[2025-04-24 02:33:34,310] INFO: Epoch-1 -- Iter [220/621] loss: 0.09, (pos: 0.74, neg: 0.04)
+[2025-04-24 02:34:24,744] INFO: Learning rate: 8.5e-05
+[2025-04-24 02:34:24,744] INFO: Epoch-1 -- Iter [230/621] loss: 0.10, (pos: 0.74, neg: 0.04)
+[2025-04-24 02:35:15,363] INFO: Learning rate: 8.6e-05
+[2025-04-24 02:35:15,363] INFO: Epoch-1 -- Iter [240/621] loss: 0.10, (pos: 0.77, neg: 0.04)
+[2025-04-24 02:36:05,826] INFO: Learning rate: 8.7e-05
+[2025-04-24 02:36:05,826] INFO: Epoch-1 -- Iter [250/621] loss: 0.09, (pos: 0.75, neg: 0.03)
+[2025-04-24 02:36:56,362] INFO: Learning rate: 8.800000000000001e-05
+[2025-04-24 02:36:56,362] INFO: Epoch-1 -- Iter [260/621] loss: 0.11, (pos: 0.75, neg: 0.04)
+[2025-04-24 02:37:47,180] INFO: Learning rate: 8.900000000000001e-05
+[2025-04-24 02:37:47,181] INFO: Epoch-1 -- Iter [270/621] loss: 0.31, (pos: 0.71, neg: 0.06)
+[2025-04-24 02:38:37,501] INFO: Learning rate: 9e-05
+[2025-04-24 02:38:37,501] INFO: Epoch-1 -- Iter [280/621] loss: 0.03, (pos: 0.78, neg: 0.04)
+[2025-04-24 02:39:28,183] INFO: Learning rate: 9.1e-05
+[2025-04-24 02:39:28,183] INFO: Epoch-1 -- Iter [290/621] loss: 0.02, (pos: 0.74, neg: 0.04)
+[2025-04-24 02:40:18,918] INFO: Learning rate: 9.200000000000001e-05
+[2025-04-24 02:40:18,918] INFO: Epoch-1 -- Iter [300/621] loss: 0.13, (pos: 0.74, neg: 0.04)
+[2025-04-24 02:41:09,426] INFO: Learning rate: 9.300000000000001e-05
+[2025-04-24 02:41:09,426] INFO: Epoch-1 -- Iter [310/621] loss: 0.08, (pos: 0.76, neg: 0.03)
+[2025-04-24 02:42:00,062] INFO: Learning rate: 9.4e-05
+[2025-04-24 02:42:00,062] INFO: Epoch-1 -- Iter [320/621] loss: 0.03, (pos: 0.75, neg: 0.03)
+[2025-04-24 02:42:50,890] INFO: Learning rate: 9.5e-05
+[2025-04-24 02:42:50,890] INFO: Epoch-1 -- Iter [330/621] loss: 0.12, (pos: 0.75, neg: 0.06)
+[2025-04-24 02:43:41,485] INFO: Learning rate: 9.6e-05
+[2025-04-24 02:43:41,485] INFO: Epoch-1 -- Iter [340/621] loss: 0.07, (pos: 0.76, neg: 0.06)
+[2025-04-24 02:44:31,929] INFO: Learning rate: 9.7e-05
+[2025-04-24 02:44:31,929] INFO: Epoch-1 -- Iter [350/621] loss: 0.03, (pos: 0.74, neg: 0.03)
+[2025-04-24 02:45:22,897] INFO: Learning rate: 9.8e-05
+[2025-04-24 02:45:22,897] INFO: Epoch-1 -- Iter [360/621] loss: 0.13, (pos: 0.75, neg: 0.05)
+[2025-04-24 02:46:13,217] INFO: Learning rate: 9.900000000000001e-05
+[2025-04-24 02:46:13,217] INFO: Epoch-1 -- Iter [370/621] loss: 0.02, (pos: 0.75, neg: 0.04)
+[2025-04-24 02:47:03,662] INFO: Learning rate: 0.0001
+[2025-04-24 02:47:03,662] INFO: Epoch-1 -- Iter [380/621] loss: 0.06, (pos: 0.72, neg: 0.02)
+[2025-04-24 02:47:54,498] INFO: Epoch-1 -- Iter [390/621] loss: 0.01, (pos: 0.76, neg: 0.02)
+[2025-04-24 12:47:44,309] INFO: Model's weights at ./dataset/results/weights/LM_Diffusion_split2
+[2025-04-24 12:49:11,390] INFO: Learning rate: 6.21e-05
+[2025-04-24 12:49:11,390] INFO: Epoch-1 -- Iter [1/621] loss: 0.03, (pos: 0.76, neg: 0.06)
+[2025-04-24 12:50:04,069] INFO: Learning rate: 6.3e-05
+[2025-04-24 12:50:04,069] INFO: Epoch-1 -- Iter [10/621] loss: 0.03, (pos: 0.74, neg: 0.08)
+[2025-04-24 12:51:02,062] INFO: Learning rate: 6.400000000000001e-05
+[2025-04-24 12:51:02,063] INFO: Epoch-1 -- Iter [20/621] loss: 0.07, (pos: 0.73, neg: 0.07)
+[2025-04-24 12:51:58,958] INFO: Learning rate: 6.500000000000001e-05
+[2025-04-24 12:51:58,958] INFO: Epoch-1 -- Iter [30/621] loss: 0.02, (pos: 0.76, neg: 0.07)
+[2025-04-24 12:52:55,768] INFO: Learning rate: 6.6e-05
+[2025-04-24 12:52:55,768] INFO: Epoch-1 -- Iter [40/621] loss: 0.03, (pos: 0.77, neg: 0.04)
+[2025-04-24 12:53:51,617] INFO: Learning rate: 6.7e-05
+[2025-04-24 12:53:51,617] INFO: Epoch-1 -- Iter [50/621] loss: 0.02, (pos: 0.78, neg: 0.04)
+[2025-04-24 12:54:47,689] INFO: Learning rate: 6.800000000000001e-05
+[2025-04-24 12:54:47,689] INFO: Epoch-1 -- Iter [60/621] loss: 0.03, (pos: 0.76, neg: 0.07)
+[2025-04-24 12:55:43,627] INFO: Learning rate: 6.9e-05
+[2025-04-24 12:55:43,627] INFO: Epoch-1 -- Iter [70/621] loss: 0.05, (pos: 0.74, neg: 0.03)
+[2025-04-24 12:56:38,960] INFO: Learning rate: 7e-05
+[2025-04-24 12:56:38,960] INFO: Epoch-1 -- Iter [80/621] loss: 0.11, (pos: 0.78, neg: 0.06)
+[2025-04-24 12:57:34,600] INFO: Learning rate: 7.1e-05
+[2025-04-24 12:57:34,600] INFO: Epoch-1 -- Iter [90/621] loss: 0.13, (pos: 0.76, neg: 0.11)
+[2025-04-24 12:58:30,047] INFO: Learning rate: 7.2e-05
+[2025-04-24 12:58:30,047] INFO: Epoch-1 -- Iter [100/621] loss: 0.16, (pos: 0.74, neg: 0.10)
+[2025-04-24 12:59:25,144] INFO: Learning rate: 7.3e-05
+[2025-04-24 12:59:25,145] INFO: Epoch-1 -- Iter [110/621] loss: 0.08, (pos: 0.75, neg: 0.07)
+[2025-04-24 13:00:20,641] INFO: Learning rate: 7.4e-05
+[2025-04-24 13:00:20,641] INFO: Epoch-1 -- Iter [120/621] loss: 0.02, (pos: 0.80, neg: 0.06)
+[2025-04-24 13:01:16,306] INFO: Learning rate: 7.500000000000001e-05
+[2025-04-24 13:01:16,307] INFO: Epoch-1 -- Iter [130/621] loss: 0.08, (pos: 0.78, neg: 0.04)
+[2025-04-24 13:02:11,798] INFO: Learning rate: 7.6e-05
+[2025-04-24 13:02:11,799] INFO: Epoch-1 -- Iter [140/621] loss: 0.02, (pos: 0.77, neg: 0.05)
+[2025-04-24 13:03:06,555] INFO: Learning rate: 7.7e-05
+[2025-04-24 13:03:06,555] INFO: Epoch-1 -- Iter [150/621] loss: 0.03, (pos: 0.75, neg: 0.04)
+[2025-04-24 13:04:01,679] INFO: Learning rate: 7.800000000000001e-05
+[2025-04-24 13:04:01,679] INFO: Epoch-1 -- Iter [160/621] loss: 0.08, (pos: 0.77, neg: 0.05)
+[2025-04-24 13:04:56,287] INFO: Learning rate: 7.900000000000001e-05
+[2025-04-24 13:04:56,287] INFO: Epoch-1 -- Iter [170/621] loss: 0.05, (pos: 0.74, neg: 0.04)
+[2025-04-24 13:05:50,956] INFO: Learning rate: 8e-05
+[2025-04-24 13:05:50,956] INFO: Epoch-1 -- Iter [180/621] loss: 0.07, (pos: 0.76, neg: 0.04)
+[2025-04-24 13:06:45,720] INFO: Learning rate: 8.1e-05
+[2025-04-24 13:06:45,720] INFO: Epoch-1 -- Iter [190/621] loss: 0.04, (pos: 0.76, neg: 0.03)
+[2025-04-24 13:07:40,991] INFO: Learning rate: 8.2e-05
+[2025-04-24 13:07:40,991] INFO: Epoch-1 -- Iter [200/621] loss: 0.02, (pos: 0.79, neg: 0.06)
+[2025-04-24 13:08:35,651] INFO: Learning rate: 8.3e-05
+[2025-04-24 13:08:35,651] INFO: Epoch-1 -- Iter [210/621] loss: 0.04, (pos: 0.80, neg: 0.10)
+[2025-04-24 13:09:29,794] INFO: Learning rate: 8.4e-05
+[2025-04-24 13:09:29,794] INFO: Epoch-1 -- Iter [220/621] loss: 0.09, (pos: 0.75, neg: 0.03)
+[2025-04-24 13:10:23,891] INFO: Learning rate: 8.5e-05
+[2025-04-24 13:10:23,891] INFO: Epoch-1 -- Iter [230/621] loss: 0.10, (pos: 0.75, neg: 0.05)
+[2025-04-24 13:11:18,315] INFO: Learning rate: 8.6e-05
+[2025-04-24 13:11:18,315] INFO: Epoch-1 -- Iter [240/621] loss: 0.10, (pos: 0.79, neg: 0.05)
+[2025-04-24 13:12:12,891] INFO: Learning rate: 8.7e-05
+[2025-04-24 13:12:12,891] INFO: Epoch-1 -- Iter [250/621] loss: 0.09, (pos: 0.75, neg: 0.03)
+[2025-04-24 13:13:07,502] INFO: Learning rate: 8.800000000000001e-05
+[2025-04-24 13:13:07,502] INFO: Epoch-1 -- Iter [260/621] loss: 0.11, (pos: 0.77, neg: 0.04)
+[2025-04-24 13:14:02,164] INFO: Learning rate: 8.900000000000001e-05
+[2025-04-24 13:14:02,164] INFO: Epoch-1 -- Iter [270/621] loss: 0.34, (pos: 0.72, neg: 0.07)
+[2025-04-24 13:14:56,412] INFO: Learning rate: 9e-05
+[2025-04-24 13:14:56,412] INFO: Epoch-1 -- Iter [280/621] loss: 0.03, (pos: 0.79, neg: 0.06)
+[2025-04-24 13:15:50,617] INFO: Learning rate: 9.1e-05
+[2025-04-24 13:15:50,618] INFO: Epoch-1 -- Iter [290/621] loss: 0.02, (pos: 0.75, neg: 0.04)
+[2025-04-24 13:16:44,806] INFO: Learning rate: 9.200000000000001e-05
+[2025-04-24 13:16:44,806] INFO: Epoch-1 -- Iter [300/621] loss: 0.13, (pos: 0.75, neg: 0.05)
+[2025-04-24 13:17:39,493] INFO: Learning rate: 9.300000000000001e-05
+[2025-04-24 13:17:39,493] INFO: Epoch-1 -- Iter [310/621] loss: 0.07, (pos: 0.77, neg: 0.03)
+[2025-04-24 13:18:33,775] INFO: Learning rate: 9.4e-05
+[2025-04-24 13:18:33,776] INFO: Epoch-1 -- Iter [320/621] loss: 0.02, (pos: 0.75, neg: 0.02)
+[2025-04-24 13:19:27,953] INFO: Learning rate: 9.5e-05
+[2025-04-24 13:19:27,953] INFO: Epoch-1 -- Iter [330/621] loss: 0.11, (pos: 0.78, neg: 0.07)
+[2025-04-24 13:20:22,322] INFO: Learning rate: 9.6e-05
+[2025-04-24 13:20:22,323] INFO: Epoch-1 -- Iter [340/621] loss: 0.07, (pos: 0.78, neg: 0.07)
+[2025-04-24 13:21:16,416] INFO: Learning rate: 9.7e-05
+[2025-04-24 13:21:16,416] INFO: Epoch-1 -- Iter [350/621] loss: 0.03, (pos: 0.75, neg: 0.03)
+[2025-04-24 13:22:10,732] INFO: Learning rate: 9.8e-05
+[2025-04-24 13:22:10,733] INFO: Epoch-1 -- Iter [360/621] loss: 0.12, (pos: 0.76, neg: 0.05)
+[2025-04-24 13:23:05,184] INFO: Learning rate: 9.900000000000001e-05
+[2025-04-24 13:23:05,184] INFO: Epoch-1 -- Iter [370/621] loss: 0.02, (pos: 0.77, neg: 0.05)
+[2025-04-24 13:23:59,299] INFO: Learning rate: 0.0001
+[2025-04-24 13:23:59,299] INFO: Epoch-1 -- Iter [380/621] loss: 0.08, (pos: 0.72, neg: 0.02)
+[2025-04-24 13:24:53,724] INFO: Epoch-1 -- Iter [390/621] loss: 0.01, (pos: 0.77, neg: 0.03)
+[2025-04-24 13:25:47,740] INFO: Epoch-1 -- Iter [400/621] loss: 0.04, (pos: 0.76, neg: 0.02)
+[2025-04-24 13:26:41,638] INFO: Epoch-1 -- Iter [410/621] loss: 0.13, (pos: 0.76, neg: 0.07)
+[2025-04-24 13:27:35,598] INFO: Epoch-1 -- Iter [420/621] loss: 0.03, (pos: 0.77, neg: 0.05)
+[2025-04-24 13:28:29,966] INFO: Epoch-1 -- Iter [430/621] loss: 0.01, (pos: 0.76, neg: 0.03)
+[2025-04-24 13:29:24,491] INFO: Epoch-1 -- Iter [440/621] loss: 0.03, (pos: 0.76, neg: 0.05)
+[2025-04-24 13:30:19,164] INFO: Epoch-1 -- Iter [450/621] loss: 0.08, (pos: 0.75, neg: 0.06)
+[2025-04-24 13:31:13,923] INFO: Epoch-1 -- Iter [460/621] loss: 0.05, (pos: 0.77, neg: 0.05)
+[2025-04-24 13:32:07,976] INFO: Epoch-1 -- Iter [470/621] loss: 0.08, (pos: 0.74, neg: 0.03)
+[2025-04-24 13:33:02,571] INFO: Epoch-1 -- Iter [480/621] loss: 0.01, (pos: 0.80, neg: 0.03)
+[2025-04-24 13:33:57,452] INFO: Epoch-1 -- Iter [490/621] loss: 0.03, (pos: 0.78, neg: 0.05)
+[2025-04-24 13:34:52,188] INFO: Epoch-1 -- Iter [500/621] loss: 0.03, (pos: 0.78, neg: 0.04)
+[2025-04-24 13:35:46,794] INFO: Epoch-1 -- Iter [510/621] loss: 0.05, (pos: 0.76, neg: 0.04)
+[2025-04-24 13:36:41,461] INFO: Epoch-1 -- Iter [520/621] loss: 0.02, (pos: 0.77, neg: 0.02)
+[2025-04-24 13:37:35,878] INFO: Epoch-1 -- Iter [530/621] loss: 0.01, (pos: 0.77, neg: 0.02)
+[2025-04-24 13:38:30,057] INFO: Epoch-1 -- Iter [540/621] loss: 0.10, (pos: 0.80, neg: 0.03)
+[2025-04-24 13:39:24,435] INFO: Epoch-1 -- Iter [550/621] loss: 0.03, (pos: 0.77, neg: 0.02)
+[2025-04-24 13:40:18,537] INFO: Epoch-1 -- Iter [560/621] loss: 0.04, (pos: 0.78, neg: 0.02)
+[2025-04-24 13:41:12,813] INFO: Epoch-1 -- Iter [570/621] loss: 0.05, (pos: 0.78, neg: 0.02)
+[2025-04-24 13:42:06,799] INFO: Epoch-1 -- Iter [580/621] loss: 0.01, (pos: 0.77, neg: -0.00)
+[2025-04-24 13:43:01,140] INFO: Epoch-1 -- Iter [590/621] loss: 0.02, (pos: 0.77, neg: 0.03)
+[2025-04-24 13:43:56,307] INFO: Epoch-1 -- Iter [600/621] loss: 0.01, (pos: 0.75, neg: 0.01)
+[2025-04-24 13:44:51,565] INFO: Epoch-1 -- Iter [610/621] loss: 0.04, (pos: 0.77, neg: 0.04)
+[2025-04-24 13:45:46,397] INFO: Epoch-1 -- Iter [620/621] loss: 0.02, (pos: 0.75, neg: 0.05)
+[2025-04-24 13:45:51,268] INFO: Training time for epoch 1: 57.22 minutes
+[2025-04-24 13:56:38,783] INFO: Epoch-1, seen -- Mean err: 3.97, Acc: 0.99, Rec : 1.00, Class and Pose  : 0.99
+[2025-04-24 13:56:38,783] INFO: Validation time for epoch 1: 10.79 minutes
+[2025-04-24 14:13:53,673] INFO: Epoch-1, seen_occ -- Mean err: 9.07, Acc: 0.89, Rec : 0.94, Class and Pose  : 0.87
+[2025-04-24 14:13:53,673] INFO: Validation time for epoch 1: 17.25 minutes
+[2025-04-24 14:32:05,729] INFO: Epoch-1, unseen -- Mean err: 2.45, Acc: 1.00, Rec : 1.00, Class and Pose  : 1.00
+[2025-04-24 14:32:05,730] INFO: Validation time for epoch 1: 18.20 minutes
+[2025-04-24 14:49:48,005] INFO: Epoch-1, unseen_occ -- Mean err: 10.39, Acc: 0.85, Rec : 0.83, Class and Pose  : 0.77
+[2025-04-24 14:49:48,005] INFO: Validation time for epoch 1: 17.70 minutes
+[2025-04-24 14:49:48,005] INFO: 
+Epoch-1: train_loss=0.05268584886391839, seen=0.994903160040775, seen_occ=0.8706013363028962, unseen=0.995075913007797, unseen_occ=0.7688069506251322 
+
+
+[2025-04-24 14:49:53,527] INFO: Epoch-2 -- Iter [1/621] loss: 0.02, (pos: 0.78, neg: 0.05)
+[2025-04-24 14:50:40,731] INFO: Epoch-2 -- Iter [10/621] loss: 0.01, (pos: 0.74, neg: 0.01)
+[2025-04-24 14:51:33,063] INFO: Epoch-2 -- Iter [20/621] loss: 0.05, (pos: 0.75, neg: 0.02)
+[2025-04-24 14:52:25,254] INFO: Epoch-2 -- Iter [30/621] loss: 0.01, (pos: 0.78, neg: 0.04)
+[2025-04-24 14:53:17,492] INFO: Epoch-2 -- Iter [40/621] loss: 0.01, (pos: 0.77, neg: 0.01)
+[2025-04-26 14:52:43,067] INFO: Model's weights at ./dataset/results/weights/LM_Diffusion_split2
+[2025-04-26 14:54:02,856] INFO: Epoch-2 -- Iter [1/621] loss: 0.02, (pos: 0.78, neg: 0.05)
+[2025-04-26 14:54:54,458] INFO: Epoch-2 -- Iter [10/621] loss: 0.02, (pos: 0.75, neg: 0.04)
+[2025-04-26 14:55:51,150] INFO: Epoch-2 -- Iter [20/621] loss: 0.05, (pos: 0.75, neg: 0.03)
+[2025-04-26 14:56:46,842] INFO: Epoch-2 -- Iter [30/621] loss: 0.01, (pos: 0.77, neg: 0.03)
+[2025-04-26 14:57:41,889] INFO: Epoch-2 -- Iter [40/621] loss: 0.01, (pos: 0.77, neg: 0.02)
+[2025-04-26 14:58:36,865] INFO: Epoch-2 -- Iter [50/621] loss: 0.01, (pos: 0.79, neg: 0.03)
+[2025-04-26 14:59:31,470] INFO: Epoch-2 -- Iter [60/621] loss: 0.02, (pos: 0.78, neg: 0.05)
+[2025-04-26 15:00:26,621] INFO: Epoch-2 -- Iter [70/621] loss: 0.04, (pos: 0.75, neg: 0.03)
+[2025-04-26 15:01:21,086] INFO: Epoch-2 -- Iter [80/621] loss: 0.10, (pos: 0.79, neg: 0.05)
+[2025-04-26 15:02:15,251] INFO: Epoch-2 -- Iter [90/621] loss: 0.07, (pos: 0.78, neg: 0.06)
+[2025-04-26 15:03:09,454] INFO: Epoch-2 -- Iter [100/621] loss: 0.06, (pos: 0.75, neg: 0.05)
+[2025-04-26 15:04:03,887] INFO: Epoch-2 -- Iter [110/621] loss: 0.06, (pos: 0.77, neg: 0.09)
+[2025-04-26 15:04:58,774] INFO: Epoch-2 -- Iter [120/621] loss: 0.01, (pos: 0.80, neg: 0.03)
+[2025-04-26 15:05:53,282] INFO: Epoch-2 -- Iter [130/621] loss: 0.06, (pos: 0.80, neg: 0.02)
+[2025-04-26 15:06:47,304] INFO: Epoch-2 -- Iter [140/621] loss: 0.01, (pos: 0.77, neg: 0.04)
+[2025-04-26 15:07:41,054] INFO: Epoch-2 -- Iter [150/621] loss: 0.02, (pos: 0.76, neg: 0.03)
+[2025-04-26 15:08:34,378] INFO: Epoch-2 -- Iter [160/621] loss: 0.06, (pos: 0.79, neg: 0.04)
+[2025-04-26 15:09:27,712] INFO: Epoch-2 -- Iter [170/621] loss: 0.04, (pos: 0.74, neg: 0.01)
+[2025-04-26 15:10:21,558] INFO: Epoch-2 -- Iter [180/621] loss: 0.06, (pos: 0.77, neg: 0.03)
+[2025-04-26 15:11:15,605] INFO: Epoch-2 -- Iter [190/621] loss: 0.03, (pos: 0.77, neg: 0.02)
+[2025-04-26 15:12:09,419] INFO: Epoch-2 -- Iter [200/621] loss: 0.01, (pos: 0.79, neg: 0.03)
+[2025-04-26 15:13:02,753] INFO: Epoch-2 -- Iter [210/621] loss: 0.02, (pos: 0.79, neg: 0.05)
+[2025-04-26 15:13:56,423] INFO: Epoch-2 -- Iter [220/621] loss: 0.08, (pos: 0.76, neg: 0.03)
+[2025-04-26 15:14:50,056] INFO: Epoch-2 -- Iter [230/621] loss: 0.08, (pos: 0.76, neg: 0.04)
+[2025-04-26 15:15:43,725] INFO: Epoch-2 -- Iter [240/621] loss: 0.09, (pos: 0.81, neg: 0.07)
+[2025-04-26 15:16:37,300] INFO: Epoch-2 -- Iter [250/621] loss: 0.08, (pos: 0.77, neg: 0.04)
+[2025-04-26 15:17:30,535] INFO: Epoch-2 -- Iter [260/621] loss: 0.08, (pos: 0.78, neg: 0.04)
+[2025-04-26 15:18:23,828] INFO: Epoch-2 -- Iter [270/621] loss: 0.18, (pos: 0.73, neg: 0.05)
+[2025-04-26 15:19:17,067] INFO: Epoch-2 -- Iter [280/621] loss: 0.02, (pos: 0.77, neg: 0.04)
+[2025-04-26 15:20:10,400] INFO: Epoch-2 -- Iter [290/621] loss: 0.02, (pos: 0.75, neg: 0.01)
+[2025-04-26 15:21:03,696] INFO: Epoch-2 -- Iter [300/621] loss: 0.10, (pos: 0.76, neg: 0.04)
+[2025-04-26 15:21:57,427] INFO: Epoch-2 -- Iter [310/621] loss: 0.07, (pos: 0.76, neg: 0.02)
+[2025-04-26 15:22:50,187] INFO: Epoch-2 -- Iter [320/621] loss: 0.02, (pos: 0.75, neg: 0.02)
+[2025-04-26 15:23:43,431] INFO: Epoch-2 -- Iter [330/621] loss: 0.09, (pos: 0.78, neg: 0.05)
+[2025-04-26 15:24:36,240] INFO: Epoch-2 -- Iter [340/621] loss: 0.05, (pos: 0.76, neg: 0.03)
+[2025-04-26 15:25:29,692] INFO: Epoch-2 -- Iter [350/621] loss: 0.02, (pos: 0.75, neg: 0.02)
+[2025-04-26 15:26:22,927] INFO: Epoch-2 -- Iter [360/621] loss: 0.10, (pos: 0.77, neg: 0.04)
+[2025-04-26 15:27:15,762] INFO: Epoch-2 -- Iter [370/621] loss: 0.02, (pos: 0.77, neg: 0.04)
+[2025-04-26 15:28:08,484] INFO: Epoch-2 -- Iter [380/621] loss: 0.03, (pos: 0.74, neg: 0.00)
+[2025-04-26 15:29:01,796] INFO: Epoch-2 -- Iter [390/621] loss: 0.01, (pos: 0.79, neg: 0.03)
+[2025-04-26 15:29:54,818] INFO: Epoch-2 -- Iter [400/621] loss: 0.04, (pos: 0.76, neg: 0.02)
+[2025-04-26 15:30:47,598] INFO: Epoch-2 -- Iter [410/621] loss: 0.12, (pos: 0.76, neg: 0.06)
+[2025-04-26 15:31:40,435] INFO: Epoch-2 -- Iter [420/621] loss: 0.02, (pos: 0.77, neg: 0.03)
+[2025-04-26 15:32:33,377] INFO: Epoch-2 -- Iter [430/621] loss: 0.01, (pos: 0.77, neg: 0.02)
+[2025-04-26 15:33:25,997] INFO: Epoch-2 -- Iter [440/621] loss: 0.02, (pos: 0.76, neg: 0.03)
+[2025-04-26 15:34:18,630] INFO: Epoch-2 -- Iter [450/621] loss: 0.07, (pos: 0.75, neg: 0.05)
+[2025-04-26 15:35:11,127] INFO: Epoch-2 -- Iter [460/621] loss: 0.05, (pos: 0.78, neg: 0.04)
+[2025-04-26 15:36:03,931] INFO: Epoch-2 -- Iter [470/621] loss: 0.07, (pos: 0.75, neg: 0.02)
+[2025-04-26 15:36:56,828] INFO: Epoch-2 -- Iter [480/621] loss: 0.01, (pos: 0.80, neg: 0.03)
+[2025-04-26 15:37:49,855] INFO: Epoch-2 -- Iter [490/621] loss: 0.02, (pos: 0.78, neg: 0.03)
+[2025-04-26 15:38:43,177] INFO: Epoch-2 -- Iter [500/621] loss: 0.02, (pos: 0.78, neg: 0.03)
+[2025-04-26 15:39:35,967] INFO: Epoch-2 -- Iter [510/621] loss: 0.03, (pos: 0.77, neg: 0.03)
+[2025-04-26 15:40:28,606] INFO: Epoch-2 -- Iter [520/621] loss: 0.01, (pos: 0.78, neg: 0.02)
+[2025-04-26 15:41:21,444] INFO: Epoch-2 -- Iter [530/621] loss: 0.01, (pos: 0.78, neg: 0.02)
+[2025-04-26 15:42:14,095] INFO: Epoch-2 -- Iter [540/621] loss: 0.09, (pos: 0.80, neg: 0.03)
+[2025-04-26 15:43:06,843] INFO: Epoch-2 -- Iter [550/621] loss: 0.02, (pos: 0.77, neg: 0.01)
+[2025-04-26 15:43:59,175] INFO: Epoch-2 -- Iter [560/621] loss: 0.03, (pos: 0.78, neg: 0.01)
+[2025-04-26 15:44:51,484] INFO: Epoch-2 -- Iter [570/621] loss: 0.04, (pos: 0.79, neg: 0.01)
+[2025-04-26 15:45:43,944] INFO: Epoch-2 -- Iter [580/621] loss: 0.01, (pos: 0.76, neg: -0.00)
+[2025-04-26 15:46:36,314] INFO: Epoch-2 -- Iter [590/621] loss: 0.01, (pos: 0.78, neg: 0.02)
+[2025-04-26 15:47:29,525] INFO: Epoch-2 -- Iter [600/621] loss: 0.01, (pos: 0.76, neg: 0.00)
+[2025-04-26 15:48:22,714] INFO: Epoch-2 -- Iter [610/621] loss: 0.03, (pos: 0.77, neg: 0.03)
+[2025-04-26 15:49:15,673] INFO: Epoch-2 -- Iter [620/621] loss: 0.02, (pos: 0.78, neg: 0.07)
+[2025-04-26 15:49:20,228] INFO: Training time for epoch 2: 55.77 minutes
+[2025-04-26 15:59:35,674] INFO: Epoch-2, seen -- Mean err: 3.78, Acc: 1.00, Rec : 1.00, Class and Pose  : 1.00
+[2025-04-26 15:59:35,674] INFO: Validation time for epoch 2: 10.26 minutes
+[2025-04-26 16:15:55,913] INFO: Epoch-2, seen_occ -- Mean err: 8.92, Acc: 0.90, Rec : 0.94, Class and Pose  : 0.87
+[2025-04-26 16:15:55,914] INFO: Validation time for epoch 2: 16.34 minutes
+[2025-04-26 16:33:16,791] INFO: Epoch-2, unseen -- Mean err: 2.55, Acc: 0.99, Rec : 1.00, Class and Pose  : 0.99
+[2025-04-26 16:33:16,791] INFO: Validation time for epoch 2: 17.35 minutes
+[2025-04-26 16:50:08,983] INFO: Epoch-2, unseen_occ -- Mean err: 10.68, Acc: 0.85, Rec : 0.82, Class and Pose  : 0.76
+[2025-04-26 16:50:08,983] INFO: Validation time for epoch 2: 16.87 minutes
+[2025-04-26 16:50:08,983] INFO: 
+Epoch-2: train_loss=0.040167390991260245, seen=0.9979612640163109, seen_occ=0.8726057906458787, unseen=0.993639720968405, unseen_occ=0.7599067599067593 
+
+
+[2025-04-26 16:50:14,423] INFO: Epoch-3 -- Iter [1/621] loss: 0.01, (pos: 0.78, neg: 0.05)
+[2025-04-26 16:51:00,605] INFO: Epoch-3 -- Iter [10/621] loss: 0.01, (pos: 0.74, neg: -0.01)
+[2025-04-26 16:51:51,888] INFO: Epoch-3 -- Iter [20/621] loss: 0.04, (pos: 0.77, neg: 0.01)
+[2025-04-26 16:52:42,803] INFO: Epoch-3 -- Iter [30/621] loss: 0.01, (pos: 0.79, neg: 0.04)
+[2025-04-26 16:53:33,672] INFO: Epoch-3 -- Iter [40/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-26 16:54:24,333] INFO: Epoch-3 -- Iter [50/621] loss: 0.01, (pos: 0.79, neg: 0.03)
+[2025-04-26 16:55:14,745] INFO: Epoch-3 -- Iter [60/621] loss: 0.01, (pos: 0.79, neg: 0.04)
+[2025-04-27 23:43:21,286] INFO: Model's weights at ./dataset/results/weights/LM_Diffusion_split2
+[2025-04-27 23:44:41,299] INFO: Epoch-3 -- Iter [1/621] loss: 0.01, (pos: 0.78, neg: 0.05)
+[2025-04-27 23:45:32,202] INFO: Epoch-3 -- Iter [10/621] loss: 0.01, (pos: 0.76, neg: 0.04)
+[2025-04-27 23:46:28,792] INFO: Epoch-3 -- Iter [20/621] loss: 0.04, (pos: 0.75, neg: 0.01)
+[2025-04-27 23:47:24,535] INFO: Epoch-3 -- Iter [30/621] loss: 0.01, (pos: 0.78, neg: 0.03)
+[2025-04-27 23:48:19,994] INFO: Epoch-3 -- Iter [40/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-27 23:49:14,599] INFO: Epoch-3 -- Iter [50/621] loss: 0.01, (pos: 0.79, neg: 0.02)
+[2025-04-27 23:50:09,245] INFO: Epoch-3 -- Iter [60/621] loss: 0.01, (pos: 0.78, neg: 0.04)
+[2025-04-27 23:51:03,984] INFO: Epoch-3 -- Iter [70/621] loss: 0.04, (pos: 0.76, neg: 0.04)
+[2025-04-27 23:51:58,285] INFO: Epoch-3 -- Iter [80/621] loss: 0.09, (pos: 0.79, neg: 0.03)
+[2025-04-27 23:52:52,803] INFO: Epoch-3 -- Iter [90/621] loss: 0.06, (pos: 0.79, neg: 0.06)
+[2025-04-27 23:53:47,033] INFO: Epoch-3 -- Iter [100/621] loss: 0.05, (pos: 0.76, neg: 0.04)
+[2025-04-27 23:54:41,795] INFO: Epoch-3 -- Iter [110/621] loss: 0.04, (pos: 0.77, neg: 0.08)
+[2025-04-27 23:55:35,795] INFO: Epoch-3 -- Iter [120/621] loss: 0.01, (pos: 0.80, neg: 0.02)
+[2025-04-27 23:56:29,892] INFO: Epoch-3 -- Iter [130/621] loss: 0.04, (pos: 0.80, neg: 0.03)
+[2025-04-27 23:57:24,074] INFO: Epoch-3 -- Iter [140/621] loss: 0.01, (pos: 0.78, neg: 0.03)
+[2025-04-27 23:58:17,960] INFO: Epoch-3 -- Iter [150/621] loss: 0.02, (pos: 0.77, neg: 0.03)
+[2025-04-27 23:59:11,979] INFO: Epoch-3 -- Iter [160/621] loss: 0.05, (pos: 0.79, neg: 0.04)
+[2025-04-28 00:00:06,057] INFO: Epoch-3 -- Iter [170/621] loss: 0.03, (pos: 0.75, neg: 0.00)
+[2025-04-28 00:01:01,740] INFO: Epoch-3 -- Iter [180/621] loss: 0.05, (pos: 0.77, neg: 0.03)
+[2025-04-28 00:01:55,284] INFO: Epoch-3 -- Iter [190/621] loss: 0.02, (pos: 0.78, neg: 0.02)
+[2025-04-28 00:02:48,896] INFO: Epoch-3 -- Iter [200/621] loss: 0.01, (pos: 0.79, neg: 0.02)
+[2025-04-28 00:03:42,926] INFO: Epoch-3 -- Iter [210/621] loss: 0.02, (pos: 0.79, neg: 0.03)
+[2025-04-28 00:04:36,387] INFO: Epoch-3 -- Iter [220/621] loss: 0.07, (pos: 0.76, neg: 0.03)
+[2025-04-28 00:05:30,052] INFO: Epoch-3 -- Iter [230/621] loss: 0.07, (pos: 0.77, neg: 0.04)
+[2025-04-28 00:06:23,603] INFO: Epoch-3 -- Iter [240/621] loss: 0.07, (pos: 0.80, neg: 0.06)
+[2025-04-28 00:07:16,723] INFO: Epoch-3 -- Iter [250/621] loss: 0.07, (pos: 0.76, neg: 0.03)
+[2025-04-28 00:08:10,264] INFO: Epoch-3 -- Iter [260/621] loss: 0.06, (pos: 0.78, neg: 0.03)
+[2025-04-28 00:09:05,160] INFO: Epoch-3 -- Iter [270/621] loss: 0.13, (pos: 0.74, neg: 0.04)
+[2025-04-28 00:09:58,861] INFO: Epoch-3 -- Iter [280/621] loss: 0.02, (pos: 0.77, neg: 0.02)
+[2025-04-28 00:10:52,778] INFO: Epoch-3 -- Iter [290/621] loss: 0.01, (pos: 0.76, neg: 0.01)
+[2025-04-28 00:11:46,869] INFO: Epoch-3 -- Iter [300/621] loss: 0.09, (pos: 0.76, neg: 0.03)
+[2025-04-28 00:12:40,826] INFO: Epoch-3 -- Iter [310/621] loss: 0.06, (pos: 0.75, neg: 0.01)
+[2025-04-28 00:13:33,952] INFO: Epoch-3 -- Iter [320/621] loss: 0.02, (pos: 0.75, neg: 0.02)
+[2025-04-28 00:14:27,769] INFO: Epoch-3 -- Iter [330/621] loss: 0.07, (pos: 0.79, neg: 0.04)
+[2025-04-28 00:15:21,007] INFO: Epoch-3 -- Iter [340/621] loss: 0.04, (pos: 0.77, neg: 0.03)
+[2025-04-28 00:16:14,224] INFO: Epoch-3 -- Iter [350/621] loss: 0.02, (pos: 0.75, neg: 0.02)
+[2025-04-28 00:17:07,366] INFO: Epoch-3 -- Iter [360/621] loss: 0.08, (pos: 0.78, neg: 0.04)
+[2025-04-28 00:18:00,632] INFO: Epoch-3 -- Iter [370/621] loss: 0.02, (pos: 0.76, neg: 0.03)
+[2025-04-28 00:18:54,009] INFO: Epoch-3 -- Iter [380/621] loss: 0.03, (pos: 0.75, neg: -0.01)
+[2025-04-28 00:19:47,327] INFO: Epoch-3 -- Iter [390/621] loss: 0.01, (pos: 0.80, neg: 0.06)
+[2025-04-28 00:20:40,529] INFO: Epoch-3 -- Iter [400/621] loss: 0.03, (pos: 0.76, neg: 0.01)
+[2025-04-28 00:21:33,775] INFO: Epoch-3 -- Iter [410/621] loss: 0.11, (pos: 0.77, neg: 0.06)
+[2025-04-28 00:22:27,345] INFO: Epoch-3 -- Iter [420/621] loss: 0.02, (pos: 0.77, neg: 0.02)
+[2025-04-28 00:23:20,684] INFO: Epoch-3 -- Iter [430/621] loss: 0.01, (pos: 0.77, neg: 0.02)
+[2025-04-28 00:24:13,495] INFO: Epoch-3 -- Iter [440/621] loss: 0.02, (pos: 0.76, neg: 0.02)
+[2025-04-28 00:25:06,863] INFO: Epoch-3 -- Iter [450/621] loss: 0.06, (pos: 0.75, neg: 0.04)
+[2025-04-28 00:25:59,636] INFO: Epoch-3 -- Iter [460/621] loss: 0.04, (pos: 0.78, neg: 0.03)
+[2025-04-28 00:26:52,805] INFO: Epoch-3 -- Iter [470/621] loss: 0.06, (pos: 0.74, neg: 0.01)
+[2025-04-28 00:27:46,340] INFO: Epoch-3 -- Iter [480/621] loss: 0.01, (pos: 0.79, neg: 0.02)
+[2025-04-28 00:28:39,616] INFO: Epoch-3 -- Iter [490/621] loss: 0.02, (pos: 0.78, neg: 0.02)
+[2025-04-28 00:29:32,822] INFO: Epoch-3 -- Iter [500/621] loss: 0.02, (pos: 0.78, neg: 0.03)
+[2025-04-28 00:30:25,922] INFO: Epoch-3 -- Iter [510/621] loss: 0.03, (pos: 0.77, neg: 0.02)
+[2025-04-28 00:31:18,818] INFO: Epoch-3 -- Iter [520/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-28 00:32:11,500] INFO: Epoch-3 -- Iter [530/621] loss: 0.01, (pos: 0.79, neg: 0.02)
+[2025-04-28 00:33:04,728] INFO: Epoch-3 -- Iter [540/621] loss: 0.09, (pos: 0.80, neg: 0.03)
+[2025-04-28 00:33:57,542] INFO: Epoch-3 -- Iter [550/621] loss: 0.02, (pos: 0.78, neg: 0.01)
+[2025-04-28 00:34:50,850] INFO: Epoch-3 -- Iter [560/621] loss: 0.03, (pos: 0.77, neg: 0.00)
+[2025-04-28 00:35:43,767] INFO: Epoch-3 -- Iter [570/621] loss: 0.03, (pos: 0.78, neg: 0.01)
+[2025-04-28 00:36:36,283] INFO: Epoch-3 -- Iter [580/621] loss: 0.01, (pos: 0.77, neg: 0.01)
+[2025-04-28 00:37:29,001] INFO: Epoch-3 -- Iter [590/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-28 00:38:22,205] INFO: Epoch-3 -- Iter [600/621] loss: 0.01, (pos: 0.76, neg: -0.00)
+[2025-04-28 00:39:16,345] INFO: Epoch-3 -- Iter [610/621] loss: 0.03, (pos: 0.77, neg: 0.02)
+[2025-04-28 00:40:09,782] INFO: Epoch-3 -- Iter [620/621] loss: 0.02, (pos: 0.78, neg: 0.07)
+[2025-04-28 00:40:14,233] INFO: Training time for epoch 3: 56.02 minutes
+[2025-04-28 00:50:27,417] INFO: Epoch-3, seen -- Mean err: 3.74, Acc: 1.00, Rec : 1.00, Class and Pose  : 1.00
+[2025-04-28 00:50:27,418] INFO: Validation time for epoch 3: 10.22 minutes
+[2025-04-28 01:07:07,810] INFO: Epoch-3, seen_occ -- Mean err: 8.94, Acc: 0.90, Rec : 0.93, Class and Pose  : 0.87
+[2025-04-28 01:07:07,810] INFO: Validation time for epoch 3: 16.67 minutes
+[2025-04-28 11:05:27,367] INFO: Model's weights at ./dataset/results/weights/LM_Diffusion_split2
+[2025-04-28 11:06:29,848] INFO: Epoch-3 -- Iter [1/621] loss: 0.01, (pos: 0.78, neg: 0.05)
+[2025-04-28 11:07:19,097] INFO: Epoch-3 -- Iter [10/621] loss: 0.01, (pos: 0.76, neg: 0.04)
+[2025-04-28 11:08:13,421] INFO: Epoch-3 -- Iter [20/621] loss: 0.04, (pos: 0.75, neg: 0.01)
+[2025-04-28 11:09:06,869] INFO: Epoch-3 -- Iter [30/621] loss: 0.01, (pos: 0.78, neg: 0.04)
+[2025-04-28 11:10:00,452] INFO: Epoch-3 -- Iter [40/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-28 11:10:53,491] INFO: Epoch-3 -- Iter [50/621] loss: 0.01, (pos: 0.79, neg: 0.02)
+[2025-04-28 11:11:46,703] INFO: Epoch-3 -- Iter [60/621] loss: 0.01, (pos: 0.78, neg: 0.04)
+[2025-04-28 11:12:39,566] INFO: Epoch-3 -- Iter [70/621] loss: 0.04, (pos: 0.76, neg: 0.04)
+[2025-04-28 11:13:32,908] INFO: Epoch-3 -- Iter [80/621] loss: 0.09, (pos: 0.79, neg: 0.03)
+[2025-04-28 11:14:25,835] INFO: Epoch-3 -- Iter [90/621] loss: 0.06, (pos: 0.79, neg: 0.07)
+[2025-04-28 11:15:18,463] INFO: Epoch-3 -- Iter [100/621] loss: 0.05, (pos: 0.76, neg: 0.05)
+[2025-04-28 11:16:11,257] INFO: Epoch-3 -- Iter [110/621] loss: 0.04, (pos: 0.77, neg: 0.08)
+[2025-04-28 11:17:03,902] INFO: Epoch-3 -- Iter [120/621] loss: 0.01, (pos: 0.80, neg: 0.03)
+[2025-04-28 11:17:56,622] INFO: Epoch-3 -- Iter [130/621] loss: 0.04, (pos: 0.80, neg: 0.02)
+[2025-04-28 11:18:49,063] INFO: Epoch-3 -- Iter [140/621] loss: 0.01, (pos: 0.78, neg: 0.04)
+[2025-04-28 11:19:41,655] INFO: Epoch-3 -- Iter [150/621] loss: 0.02, (pos: 0.78, neg: 0.04)
+[2025-04-28 11:20:34,150] INFO: Epoch-3 -- Iter [160/621] loss: 0.05, (pos: 0.79, neg: 0.04)
+[2025-04-28 11:21:26,591] INFO: Epoch-3 -- Iter [170/621] loss: 0.03, (pos: 0.75, neg: -0.00)
+[2025-04-28 11:22:18,525] INFO: Epoch-3 -- Iter [180/621] loss: 0.05, (pos: 0.77, neg: 0.03)
+[2025-04-28 11:23:10,850] INFO: Epoch-3 -- Iter [190/621] loss: 0.02, (pos: 0.78, neg: 0.02)
+[2025-04-28 11:24:03,063] INFO: Epoch-3 -- Iter [200/621] loss: 0.01, (pos: 0.79, neg: 0.03)
+[2025-04-28 11:24:55,346] INFO: Epoch-3 -- Iter [210/621] loss: 0.02, (pos: 0.79, neg: 0.03)
+[2025-04-28 11:25:47,450] INFO: Epoch-3 -- Iter [220/621] loss: 0.07, (pos: 0.76, neg: 0.03)
+[2025-04-28 11:26:39,212] INFO: Epoch-3 -- Iter [230/621] loss: 0.07, (pos: 0.77, neg: 0.04)
+[2025-04-28 11:27:31,557] INFO: Epoch-3 -- Iter [240/621] loss: 0.07, (pos: 0.80, neg: 0.05)
+[2025-04-28 11:28:23,791] INFO: Epoch-3 -- Iter [250/621] loss: 0.07, (pos: 0.76, neg: 0.03)
+[2025-04-28 11:29:15,772] INFO: Epoch-3 -- Iter [260/621] loss: 0.06, (pos: 0.78, neg: 0.03)
+[2025-04-28 11:30:08,020] INFO: Epoch-3 -- Iter [270/621] loss: 0.13, (pos: 0.74, neg: 0.04)
+[2025-04-28 11:30:59,713] INFO: Epoch-3 -- Iter [280/621] loss: 0.02, (pos: 0.78, neg: 0.02)
+[2025-04-28 11:31:51,098] INFO: Epoch-3 -- Iter [290/621] loss: 0.01, (pos: 0.76, neg: 0.01)
+[2025-04-28 11:32:42,858] INFO: Epoch-3 -- Iter [300/621] loss: 0.09, (pos: 0.77, neg: 0.03)
+[2025-04-28 11:33:34,735] INFO: Epoch-3 -- Iter [310/621] loss: 0.06, (pos: 0.76, neg: 0.02)
+[2025-04-28 11:34:26,562] INFO: Epoch-3 -- Iter [320/621] loss: 0.02, (pos: 0.75, neg: 0.02)
+[2025-04-28 11:35:18,335] INFO: Epoch-3 -- Iter [330/621] loss: 0.07, (pos: 0.79, neg: 0.04)
+[2025-04-28 11:36:09,660] INFO: Epoch-3 -- Iter [340/621] loss: 0.04, (pos: 0.77, neg: 0.03)
+[2025-04-28 11:37:00,979] INFO: Epoch-3 -- Iter [350/621] loss: 0.02, (pos: 0.75, neg: 0.02)
+[2025-04-28 11:37:52,430] INFO: Epoch-3 -- Iter [360/621] loss: 0.08, (pos: 0.78, neg: 0.04)
+[2025-04-28 11:38:44,186] INFO: Epoch-3 -- Iter [370/621] loss: 0.02, (pos: 0.76, neg: 0.03)
+[2025-04-28 11:39:35,838] INFO: Epoch-3 -- Iter [380/621] loss: 0.03, (pos: 0.75, neg: -0.01)
+[2025-04-28 11:40:27,738] INFO: Epoch-3 -- Iter [390/621] loss: 0.01, (pos: 0.80, neg: 0.05)
+[2025-04-28 11:41:19,508] INFO: Epoch-3 -- Iter [400/621] loss: 0.03, (pos: 0.76, neg: 0.01)
+[2025-04-28 11:42:11,327] INFO: Epoch-3 -- Iter [410/621] loss: 0.11, (pos: 0.77, neg: 0.06)
+[2025-04-28 11:43:03,457] INFO: Epoch-3 -- Iter [420/621] loss: 0.02, (pos: 0.77, neg: 0.02)
+[2025-04-28 11:43:55,763] INFO: Epoch-3 -- Iter [430/621] loss: 0.01, (pos: 0.77, neg: 0.02)
+[2025-04-28 11:44:47,593] INFO: Epoch-3 -- Iter [440/621] loss: 0.02, (pos: 0.76, neg: 0.02)
+[2025-04-28 11:45:39,209] INFO: Epoch-3 -- Iter [450/621] loss: 0.06, (pos: 0.75, neg: 0.04)
+[2025-04-28 11:46:30,759] INFO: Epoch-3 -- Iter [460/621] loss: 0.04, (pos: 0.78, neg: 0.03)
+[2025-04-28 11:47:22,309] INFO: Epoch-3 -- Iter [470/621] loss: 0.06, (pos: 0.74, neg: 0.02)
+[2025-04-28 11:48:13,793] INFO: Epoch-3 -- Iter [480/621] loss: 0.01, (pos: 0.79, neg: 0.02)
+[2025-04-28 11:49:04,998] INFO: Epoch-3 -- Iter [490/621] loss: 0.02, (pos: 0.77, neg: 0.02)
+[2025-04-28 11:49:56,486] INFO: Epoch-3 -- Iter [500/621] loss: 0.02, (pos: 0.78, neg: 0.04)
+[2025-04-28 11:50:48,004] INFO: Epoch-3 -- Iter [510/621] loss: 0.03, (pos: 0.77, neg: 0.02)
+[2025-04-28 11:51:39,777] INFO: Epoch-3 -- Iter [520/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-28 11:52:31,417] INFO: Epoch-3 -- Iter [530/621] loss: 0.01, (pos: 0.79, neg: 0.02)
+[2025-04-28 11:53:23,202] INFO: Epoch-3 -- Iter [540/621] loss: 0.09, (pos: 0.80, neg: 0.02)
+[2025-04-28 11:54:14,528] INFO: Epoch-3 -- Iter [550/621] loss: 0.02, (pos: 0.78, neg: 0.01)
+[2025-04-28 11:55:06,410] INFO: Epoch-3 -- Iter [560/621] loss: 0.03, (pos: 0.77, neg: 0.01)
+[2025-04-28 11:55:57,846] INFO: Epoch-3 -- Iter [570/621] loss: 0.03, (pos: 0.79, neg: 0.01)
+[2025-04-28 11:56:49,196] INFO: Epoch-3 -- Iter [580/621] loss: 0.01, (pos: 0.77, neg: 0.01)
+[2025-04-28 11:57:40,788] INFO: Epoch-3 -- Iter [590/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-28 11:58:32,203] INFO: Epoch-3 -- Iter [600/621] loss: 0.01, (pos: 0.77, neg: -0.00)
+[2025-04-28 11:59:23,826] INFO: Epoch-3 -- Iter [610/621] loss: 0.03, (pos: 0.77, neg: 0.02)
+[2025-04-28 12:00:15,415] INFO: Epoch-3 -- Iter [620/621] loss: 0.02, (pos: 0.78, neg: 0.07)
+[2025-04-28 12:00:19,790] INFO: Training time for epoch 3: 53.95 minutes
+[2025-04-28 12:10:23,238] INFO: Epoch-3, seen -- Mean err: 3.71, Acc: 1.00, Rec : 1.00, Class and Pose  : 1.00
+[2025-04-28 12:10:23,238] INFO: Validation time for epoch 3: 10.06 minutes
+[2025-04-28 12:26:13,444] INFO: Epoch-3, seen_occ -- Mean err: 8.93, Acc: 0.90, Rec : 0.93, Class and Pose  : 0.86
+[2025-04-28 12:26:13,445] INFO: Validation time for epoch 3: 15.84 minutes
+[2025-04-28 12:43:10,710] INFO: Epoch-3, unseen -- Mean err: 2.63, Acc: 0.99, Rec : 1.00, Class and Pose  : 0.99
+[2025-04-28 12:43:10,711] INFO: Validation time for epoch 3: 16.95 minutes
+[2025-04-28 13:00:09,611] INFO: Epoch-3, unseen_occ -- Mean err: 11.04, Acc: 0.84, Rec : 0.82, Class and Pose  : 0.75
+[2025-04-28 13:00:09,611] INFO: Validation time for epoch 3: 16.98 minutes
+[2025-04-28 13:00:09,612] INFO: 
+Epoch-3: train_loss=0.03457091294600957, seen=0.9979612640163109, seen_occ=0.8645879732739415, unseen=0.990972507180959, unseen_occ=0.7495232040686586 
+
+
+[2025-04-28 13:00:15,135] INFO: Epoch-4 -- Iter [1/621] loss: 0.01, (pos: 0.79, neg: 0.05)
+[2025-04-28 13:01:01,276] INFO: Epoch-4 -- Iter [10/621] loss: 0.01, (pos: 0.74, neg: -0.01)
+[2025-04-28 13:01:52,678] INFO: Epoch-4 -- Iter [20/621] loss: 0.03, (pos: 0.77, neg: 0.01)
+[2025-04-28 13:02:43,812] INFO: Epoch-4 -- Iter [30/621] loss: 0.01, (pos: 0.79, neg: 0.03)
+[2025-04-28 13:03:34,629] INFO: Epoch-4 -- Iter [40/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-28 13:04:25,543] INFO: Epoch-4 -- Iter [50/621] loss: 0.01, (pos: 0.79, neg: 0.03)
+[2025-04-28 13:05:16,400] INFO: Epoch-4 -- Iter [60/621] loss: 0.01, (pos: 0.79, neg: 0.05)
+[2025-04-28 13:06:06,901] INFO: Epoch-4 -- Iter [70/621] loss: 0.03, (pos: 0.76, neg: 0.04)
+[2025-04-28 13:06:57,560] INFO: Epoch-4 -- Iter [80/621] loss: 0.08, (pos: 0.79, neg: 0.03)
+[2025-04-28 13:07:48,271] INFO: Epoch-4 -- Iter [90/621] loss: 0.05, (pos: 0.79, neg: 0.06)
+[2025-04-28 13:08:38,814] INFO: Epoch-4 -- Iter [100/621] loss: 0.04, (pos: 0.76, neg: 0.04)
+[2025-04-28 13:09:29,500] INFO: Epoch-4 -- Iter [110/621] loss: 0.04, (pos: 0.76, neg: 0.06)
+[2025-04-28 13:10:20,027] INFO: Epoch-4 -- Iter [120/621] loss: 0.01, (pos: 0.80, neg: 0.02)
+[2025-04-28 13:11:10,253] INFO: Epoch-4 -- Iter [130/621] loss: 0.04, (pos: 0.80, neg: 0.02)
+[2025-04-28 13:12:00,727] INFO: Epoch-4 -- Iter [140/621] loss: 0.01, (pos: 0.78, neg: 0.03)
+[2025-04-29 10:34:12,896] INFO: Model's weights at ./dataset/results/weights/LM_Diffusion_split2
+[2025-04-29 10:35:30,249] INFO: Epoch-4 -- Iter [1/621] loss: 0.01, (pos: 0.79, neg: 0.05)
+[2025-04-29 10:36:21,058] INFO: Epoch-4 -- Iter [10/621] loss: 0.01, (pos: 0.77, neg: 0.03)
+[2025-04-29 10:37:16,932] INFO: Epoch-4 -- Iter [20/621] loss: 0.03, (pos: 0.74, neg: -0.00)
+[2025-04-29 10:38:12,142] INFO: Epoch-4 -- Iter [30/621] loss: 0.01, (pos: 0.78, neg: 0.03)
+[2025-04-29 10:39:07,110] INFO: Epoch-4 -- Iter [40/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-29 10:40:01,167] INFO: Epoch-4 -- Iter [50/621] loss: 0.01, (pos: 0.79, neg: 0.02)
+[2025-04-29 10:40:55,611] INFO: Epoch-4 -- Iter [60/621] loss: 0.01, (pos: 0.78, neg: 0.04)
+[2025-04-29 10:41:49,981] INFO: Epoch-4 -- Iter [70/621] loss: 0.03, (pos: 0.77, neg: 0.05)
+[2025-04-29 10:42:43,752] INFO: Epoch-4 -- Iter [80/621] loss: 0.08, (pos: 0.79, neg: 0.03)
+[2025-04-29 10:43:37,590] INFO: Epoch-4 -- Iter [90/621] loss: 0.05, (pos: 0.80, neg: 0.07)
+[2025-04-29 10:44:31,902] INFO: Epoch-4 -- Iter [100/621] loss: 0.04, (pos: 0.77, neg: 0.05)
+[2025-04-29 10:45:26,107] INFO: Epoch-4 -- Iter [110/621] loss: 0.04, (pos: 0.76, neg: 0.06)
+[2025-04-29 10:46:19,970] INFO: Epoch-4 -- Iter [120/621] loss: 0.01, (pos: 0.80, neg: 0.02)
+[2025-04-29 10:47:14,353] INFO: Epoch-4 -- Iter [130/621] loss: 0.04, (pos: 0.80, neg: 0.02)
+[2025-04-29 10:48:08,485] INFO: Epoch-4 -- Iter [140/621] loss: 0.01, (pos: 0.79, neg: 0.03)
+[2025-04-29 10:49:02,358] INFO: Epoch-4 -- Iter [150/621] loss: 0.02, (pos: 0.77, neg: 0.03)
+[2025-04-29 10:49:56,165] INFO: Epoch-4 -- Iter [160/621] loss: 0.04, (pos: 0.79, neg: 0.03)
+[2025-04-29 10:50:49,717] INFO: Epoch-4 -- Iter [170/621] loss: 0.03, (pos: 0.75, neg: -0.01)
+[2025-04-29 10:51:43,374] INFO: Epoch-4 -- Iter [180/621] loss: 0.05, (pos: 0.78, neg: 0.03)
+[2025-04-29 10:52:36,830] INFO: Epoch-4 -- Iter [190/621] loss: 0.02, (pos: 0.78, neg: 0.01)
+[2025-04-29 10:53:30,149] INFO: Epoch-4 -- Iter [200/621] loss: 0.01, (pos: 0.79, neg: 0.02)
+[2025-04-29 10:54:23,057] INFO: Epoch-4 -- Iter [210/621] loss: 0.01, (pos: 0.79, neg: 0.03)
+[2025-04-29 10:55:15,681] INFO: Epoch-4 -- Iter [220/621] loss: 0.06, (pos: 0.76, neg: 0.03)
+[2025-04-29 10:56:09,042] INFO: Epoch-4 -- Iter [230/621] loss: 0.06, (pos: 0.77, neg: 0.03)
+[2025-04-29 10:57:02,219] INFO: Epoch-4 -- Iter [240/621] loss: 0.07, (pos: 0.79, neg: 0.05)
+[2025-04-29 10:57:55,373] INFO: Epoch-4 -- Iter [250/621] loss: 0.05, (pos: 0.77, neg: 0.03)
+[2025-04-29 10:58:49,381] INFO: Epoch-4 -- Iter [260/621] loss: 0.06, (pos: 0.79, neg: 0.03)
+[2025-04-29 10:59:43,256] INFO: Epoch-4 -- Iter [270/621] loss: 0.12, (pos: 0.74, neg: 0.04)
+[2025-04-29 11:00:36,993] INFO: Epoch-4 -- Iter [280/621] loss: 0.02, (pos: 0.77, neg: 0.01)
+[2025-04-29 11:01:30,291] INFO: Epoch-4 -- Iter [290/621] loss: 0.01, (pos: 0.76, neg: 0.00)
+[2025-04-29 11:02:23,859] INFO: Epoch-4 -- Iter [300/621] loss: 0.08, (pos: 0.77, neg: 0.03)
+[2025-04-29 11:03:18,007] INFO: Epoch-4 -- Iter [310/621] loss: 0.06, (pos: 0.76, neg: 0.00)
+[2025-04-29 11:04:10,863] INFO: Epoch-4 -- Iter [320/621] loss: 0.02, (pos: 0.75, neg: 0.01)
+[2025-04-29 11:05:04,242] INFO: Epoch-4 -- Iter [330/621] loss: 0.06, (pos: 0.78, neg: 0.04)
+[2025-04-29 11:05:57,557] INFO: Epoch-4 -- Iter [340/621] loss: 0.04, (pos: 0.78, neg: 0.02)
+[2025-04-29 11:06:51,270] INFO: Epoch-4 -- Iter [350/621] loss: 0.02, (pos: 0.75, neg: 0.01)
+[2025-04-29 11:07:44,691] INFO: Epoch-4 -- Iter [360/621] loss: 0.07, (pos: 0.77, neg: 0.04)
+[2025-04-29 11:08:37,922] INFO: Epoch-4 -- Iter [370/621] loss: 0.02, (pos: 0.75, neg: 0.02)
+[2025-04-29 11:09:31,028] INFO: Epoch-4 -- Iter [380/621] loss: 0.02, (pos: 0.74, neg: -0.01)
+[2025-04-29 11:10:24,399] INFO: Epoch-4 -- Iter [390/621] loss: 0.01, (pos: 0.80, neg: 0.05)
+[2025-04-29 11:11:17,083] INFO: Epoch-4 -- Iter [400/621] loss: 0.03, (pos: 0.76, neg: 0.01)
+[2025-04-29 11:12:10,340] INFO: Epoch-4 -- Iter [410/621] loss: 0.10, (pos: 0.77, neg: 0.05)
+[2025-04-29 11:13:03,734] INFO: Epoch-4 -- Iter [420/621] loss: 0.02, (pos: 0.77, neg: 0.02)
+[2025-04-29 11:13:56,703] INFO: Epoch-4 -- Iter [430/621] loss: 0.01, (pos: 0.77, neg: 0.01)
+[2025-04-29 11:14:49,982] INFO: Epoch-4 -- Iter [440/621] loss: 0.02, (pos: 0.77, neg: 0.02)
+[2025-04-29 11:15:42,617] INFO: Epoch-4 -- Iter [450/621] loss: 0.06, (pos: 0.75, neg: 0.04)
+[2025-04-29 11:16:35,702] INFO: Epoch-4 -- Iter [460/621] loss: 0.04, (pos: 0.78, neg: 0.03)
+[2025-04-29 11:17:29,065] INFO: Epoch-4 -- Iter [470/621] loss: 0.05, (pos: 0.74, neg: 0.01)
+[2025-04-29 11:18:21,949] INFO: Epoch-4 -- Iter [480/621] loss: 0.01, (pos: 0.79, neg: 0.01)
+[2025-04-29 11:19:15,345] INFO: Epoch-4 -- Iter [490/621] loss: 0.02, (pos: 0.78, neg: 0.02)
+[2025-04-29 11:20:08,516] INFO: Epoch-4 -- Iter [500/621] loss: 0.02, (pos: 0.78, neg: 0.03)
+[2025-04-29 11:21:01,187] INFO: Epoch-4 -- Iter [510/621] loss: 0.03, (pos: 0.77, neg: 0.02)
+[2025-04-29 11:21:54,200] INFO: Epoch-4 -- Iter [520/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-29 11:22:46,803] INFO: Epoch-4 -- Iter [530/621] loss: 0.01, (pos: 0.78, neg: 0.02)
+[2025-04-29 11:23:39,490] INFO: Epoch-4 -- Iter [540/621] loss: 0.08, (pos: 0.80, neg: 0.03)
+[2025-04-29 11:24:32,150] INFO: Epoch-4 -- Iter [550/621] loss: 0.02, (pos: 0.78, neg: 0.01)
+[2025-04-29 11:25:24,964] INFO: Epoch-4 -- Iter [560/621] loss: 0.03, (pos: 0.77, neg: 0.00)
+[2025-04-29 11:26:17,911] INFO: Epoch-4 -- Iter [570/621] loss: 0.03, (pos: 0.78, neg: 0.01)
+[2025-04-29 11:27:11,188] INFO: Epoch-4 -- Iter [580/621] loss: 0.01, (pos: 0.78, neg: 0.02)
+[2025-04-29 11:28:04,224] INFO: Epoch-4 -- Iter [590/621] loss: 0.01, (pos: 0.77, neg: 0.00)
+[2025-04-29 11:28:57,710] INFO: Epoch-4 -- Iter [600/621] loss: 0.01, (pos: 0.77, neg: -0.00)
+[2025-04-29 11:29:50,395] INFO: Epoch-4 -- Iter [610/621] loss: 0.03, (pos: 0.77, neg: 0.02)
+[2025-04-29 11:30:43,688] INFO: Epoch-4 -- Iter [620/621] loss: 0.02, (pos: 0.77, neg: 0.06)
+[2025-04-29 11:30:48,090] INFO: Training time for epoch 4: 55.74 minutes
+[2025-04-29 11:40:54,455] INFO: Epoch-4, seen -- Mean err: 3.73, Acc: 1.00, Rec : 1.00, Class and Pose  : 1.00
+[2025-04-29 11:40:54,455] INFO: Validation time for epoch 4: 10.11 minutes
+[2025-04-29 11:57:00,728] INFO: Epoch-4, seen_occ -- Mean err: 8.87, Acc: 0.90, Rec : 0.92, Class and Pose  : 0.86
+[2025-04-29 11:57:00,728] INFO: Validation time for epoch 4: 16.10 minutes
+[2025-04-29 12:14:50,817] INFO: Epoch-4, unseen -- Mean err: 2.69, Acc: 0.99, Rec : 1.00, Class and Pose  : 0.99
+[2025-04-29 12:14:50,817] INFO: Validation time for epoch 4: 17.83 minutes
+[2025-04-29 12:31:24,462] INFO: Epoch-4, unseen_occ -- Mean err: 11.24, Acc: 0.84, Rec : 0.82, Class and Pose  : 0.75
+[2025-04-29 12:31:24,462] INFO: Validation time for epoch 4: 16.56 minutes
+[2025-04-29 12:31:24,462] INFO: 
+Epoch-4: train_loss=0.03159335477130667, seen=0.9979612640163109, seen_occ=0.8632516703786196, unseen=0.9872794419368093, unseen_occ=0.7471922017376557 
+
+
+[2025-04-29 12:31:30,026] INFO: Epoch-5 -- Iter [1/621] loss: 0.01, (pos: 0.78, neg: 0.04)
+[2025-04-29 12:32:16,290] INFO: Epoch-5 -- Iter [10/621] loss: 0.01, (pos: 0.74, neg: -0.00)
+[2025-04-29 12:33:07,587] INFO: Epoch-5 -- Iter [20/621] loss: 0.03, (pos: 0.76, neg: 0.00)
+[2025-04-29 12:33:58,384] INFO: Epoch-5 -- Iter [30/621] loss: 0.01, (pos: 0.80, neg: 0.05)
+[2025-04-29 12:34:49,335] INFO: Epoch-5 -- Iter [40/621] loss: 0.01, (pos: 0.77, neg: -0.00)
+[2025-04-30 22:43:12,499] INFO: Model's weights at ./dataset/results/weights/LM_Diffusion_split2
+[2025-04-30 22:44:29,691] INFO: Epoch-5 -- Iter [1/621] loss: 0.01, (pos: 0.78, neg: 0.04)
+[2025-04-30 22:45:21,028] INFO: Epoch-5 -- Iter [10/621] loss: 0.01, (pos: 0.76, neg: 0.03)
+[2025-04-30 22:46:17,180] INFO: Epoch-5 -- Iter [20/621] loss: 0.03, (pos: 0.74, neg: -0.00)
+[2025-04-30 22:47:12,250] INFO: Epoch-5 -- Iter [30/621] loss: 0.01, (pos: 0.78, neg: 0.03)
+[2025-04-30 22:48:07,612] INFO: Epoch-5 -- Iter [40/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-30 22:49:01,724] INFO: Epoch-5 -- Iter [50/621] loss: 0.01, (pos: 0.78, neg: 0.02)
+[2025-04-30 22:49:56,042] INFO: Epoch-5 -- Iter [60/621] loss: 0.01, (pos: 0.78, neg: 0.04)
+[2025-04-30 22:50:50,411] INFO: Epoch-5 -- Iter [70/621] loss: 0.03, (pos: 0.76, neg: 0.04)
+[2025-04-30 22:51:44,598] INFO: Epoch-5 -- Iter [80/621] loss: 0.07, (pos: 0.79, neg: 0.03)
+[2025-04-30 22:52:38,581] INFO: Epoch-5 -- Iter [90/621] loss: 0.05, (pos: 0.80, neg: 0.07)
+[2025-04-30 22:53:32,689] INFO: Epoch-5 -- Iter [100/621] loss: 0.04, (pos: 0.77, neg: 0.04)
+[2025-04-30 22:54:26,940] INFO: Epoch-5 -- Iter [110/621] loss: 0.03, (pos: 0.76, neg: 0.05)
+[2025-04-30 22:55:20,766] INFO: Epoch-5 -- Iter [120/621] loss: 0.01, (pos: 0.80, neg: 0.01)
+[2025-04-30 22:56:14,920] INFO: Epoch-5 -- Iter [130/621] loss: 0.03, (pos: 0.80, neg: 0.02)
+[2025-04-30 22:57:08,786] INFO: Epoch-5 -- Iter [140/621] loss: 0.01, (pos: 0.78, neg: 0.02)
+[2025-04-30 22:58:02,335] INFO: Epoch-5 -- Iter [150/621] loss: 0.02, (pos: 0.78, neg: 0.03)
+[2025-04-30 22:58:56,146] INFO: Epoch-5 -- Iter [160/621] loss: 0.04, (pos: 0.78, neg: 0.02)
+[2025-04-30 22:59:49,814] INFO: Epoch-5 -- Iter [170/621] loss: 0.03, (pos: 0.75, neg: -0.01)
+[2025-04-30 23:00:43,502] INFO: Epoch-5 -- Iter [180/621] loss: 0.04, (pos: 0.79, neg: 0.03)
+[2025-04-30 23:01:36,875] INFO: Epoch-5 -- Iter [190/621] loss: 0.02, (pos: 0.78, neg: 0.00)
+[2025-04-30 23:02:30,529] INFO: Epoch-5 -- Iter [200/621] loss: 0.01, (pos: 0.79, neg: 0.02)
+[2025-04-30 23:03:23,686] INFO: Epoch-5 -- Iter [210/621] loss: 0.01, (pos: 0.78, neg: 0.02)
+[2025-04-30 23:04:17,473] INFO: Epoch-5 -- Iter [220/621] loss: 0.05, (pos: 0.76, neg: 0.02)
+[2025-04-30 23:05:10,500] INFO: Epoch-5 -- Iter [230/621] loss: 0.06, (pos: 0.76, neg: 0.04)
+[2025-04-30 23:06:03,883] INFO: Epoch-5 -- Iter [240/621] loss: 0.06, (pos: 0.79, neg: 0.06)
+[2025-04-30 23:06:56,796] INFO: Epoch-5 -- Iter [250/621] loss: 0.04, (pos: 0.75, neg: 0.01)
+[2025-04-30 23:07:49,616] INFO: Epoch-5 -- Iter [260/621] loss: 0.05, (pos: 0.79, neg: 0.04)
+[2025-04-30 23:08:43,385] INFO: Epoch-5 -- Iter [270/621] loss: 0.11, (pos: 0.74, neg: 0.04)
+[2025-04-30 23:09:36,475] INFO: Epoch-5 -- Iter [280/621] loss: 0.02, (pos: 0.77, neg: 0.02)
+[2025-04-30 23:10:29,315] INFO: Epoch-5 -- Iter [290/621] loss: 0.01, (pos: 0.76, neg: 0.01)
+[2025-04-30 23:11:22,290] INFO: Epoch-5 -- Iter [300/621] loss: 0.07, (pos: 0.78, neg: 0.03)
+[2025-04-30 23:12:15,028] INFO: Epoch-5 -- Iter [310/621] loss: 0.06, (pos: 0.76, neg: 0.01)
+[2025-04-30 23:13:07,956] INFO: Epoch-5 -- Iter [320/621] loss: 0.02, (pos: 0.76, neg: 0.02)
+[2025-04-30 23:14:01,306] INFO: Epoch-5 -- Iter [330/621] loss: 0.06, (pos: 0.78, neg: 0.03)
+[2025-04-30 23:14:54,247] INFO: Epoch-5 -- Iter [340/621] loss: 0.03, (pos: 0.77, neg: 0.02)
+[2025-04-30 23:15:47,367] INFO: Epoch-5 -- Iter [350/621] loss: 0.01, (pos: 0.74, neg: -0.00)
+[2025-04-30 23:16:40,349] INFO: Epoch-5 -- Iter [360/621] loss: 0.07, (pos: 0.78, neg: 0.05)
+[2025-04-30 23:17:33,123] INFO: Epoch-5 -- Iter [370/621] loss: 0.02, (pos: 0.76, neg: 0.02)
+[2025-04-30 23:18:26,550] INFO: Epoch-5 -- Iter [380/621] loss: 0.02, (pos: 0.75, neg: -0.01)
+[2025-04-30 23:19:19,605] INFO: Epoch-5 -- Iter [390/621] loss: 0.01, (pos: 0.80, neg: 0.05)
+[2025-04-30 23:20:12,386] INFO: Epoch-5 -- Iter [400/621] loss: 0.03, (pos: 0.76, neg: 0.01)
+[2025-04-30 23:21:05,263] INFO: Epoch-5 -- Iter [410/621] loss: 0.10, (pos: 0.76, neg: 0.05)
+[2025-04-30 23:21:58,384] INFO: Epoch-5 -- Iter [420/621] loss: 0.02, (pos: 0.76, neg: 0.02)
+[2025-04-30 23:22:51,169] INFO: Epoch-5 -- Iter [430/621] loss: 0.01, (pos: 0.76, neg: -0.00)
+[2025-04-30 23:23:44,139] INFO: Epoch-5 -- Iter [440/621] loss: 0.02, (pos: 0.76, neg: 0.02)
+[2025-04-30 23:24:36,746] INFO: Epoch-5 -- Iter [450/621] loss: 0.06, (pos: 0.75, neg: 0.03)
+[2025-04-30 23:25:29,994] INFO: Epoch-5 -- Iter [460/621] loss: 0.04, (pos: 0.78, neg: 0.03)
+[2025-04-30 23:26:22,665] INFO: Epoch-5 -- Iter [470/621] loss: 0.05, (pos: 0.75, neg: 0.01)
+[2025-04-30 23:27:15,397] INFO: Epoch-5 -- Iter [480/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-30 23:28:08,549] INFO: Epoch-5 -- Iter [490/621] loss: 0.02, (pos: 0.78, neg: 0.02)
+[2025-04-30 23:29:01,401] INFO: Epoch-5 -- Iter [500/621] loss: 0.02, (pos: 0.78, neg: 0.04)
+[2025-04-30 23:29:54,289] INFO: Epoch-5 -- Iter [510/621] loss: 0.02, (pos: 0.77, neg: 0.01)
+[2025-04-30 23:30:46,617] INFO: Epoch-5 -- Iter [520/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-30 23:31:39,423] INFO: Epoch-5 -- Iter [530/621] loss: 0.01, (pos: 0.78, neg: 0.01)
+[2025-04-30 23:32:32,318] INFO: Epoch-5 -- Iter [540/621] loss: 0.08, (pos: 0.80, neg: 0.02)
+[2025-04-30 23:33:25,248] INFO: Epoch-5 -- Iter [550/621] loss: 0.02, (pos: 0.78, neg: 0.01)
+[2025-04-30 23:34:18,329] INFO: Epoch-5 -- Iter [560/621] loss: 0.03, (pos: 0.77, neg: -0.00)
+[2025-04-30 23:35:11,296] INFO: Epoch-5 -- Iter [570/621] loss: 0.03, (pos: 0.78, neg: 0.00)
+[2025-04-30 23:36:03,705] INFO: Epoch-5 -- Iter [580/621] loss: 0.01, (pos: 0.78, neg: 0.02)
+[2025-04-30 23:36:56,372] INFO: Epoch-5 -- Iter [590/621] loss: 0.01, (pos: 0.76, neg: -0.01)
+[2025-04-30 23:37:49,464] INFO: Epoch-5 -- Iter [600/621] loss: 0.01, (pos: 0.77, neg: -0.01)
+[2025-04-30 23:38:42,236] INFO: Epoch-5 -- Iter [610/621] loss: 0.03, (pos: 0.76, neg: 0.02)
+[2025-04-30 23:39:34,777] INFO: Epoch-5 -- Iter [620/621] loss: 0.02, (pos: 0.76, neg: 0.05)
+[2025-04-30 23:39:39,214] INFO: Training time for epoch 5: 55.59 minutes
+[2025-04-30 23:49:52,690] INFO: Epoch-5, seen -- Mean err: 3.77, Acc: 1.00, Rec : 1.00, Class and Pose  : 1.00
+[2025-04-30 23:49:52,690] INFO: Validation time for epoch 5: 10.22 minutes
+[2025-05-01 00:06:14,506] INFO: Epoch-5, seen_occ -- Mean err: 8.98, Acc: 0.90, Rec : 0.92, Class and Pose  : 0.87
+[2025-05-01 00:06:14,507] INFO: Validation time for epoch 5: 16.36 minutes
+[2025-05-01 00:23:34,065] INFO: Epoch-5, unseen -- Mean err: 2.74, Acc: 0.99, Rec : 1.00, Class and Pose  : 0.99
+[2025-05-01 00:23:34,066] INFO: Validation time for epoch 5: 17.33 minutes
+[2025-05-01 00:40:24,191] INFO: Epoch-5, unseen_occ -- Mean err: 11.58, Acc: 0.83, Rec : 0.82, Class and Pose  : 0.74
+[2025-05-01 00:40:24,192] INFO: Validation time for epoch 5: 16.84 minutes
+[2025-05-01 00:40:24,192] INFO: 
+Epoch-5: train_loss=0.029887011421667407, seen=0.9959225280326197, seen_occ=0.8654788418708242, unseen=0.9866639310627845, unseen_occ=0.7446492901038355 
+
+
+[2025-05-01 00:40:29,652] INFO: Epoch-6 -- Iter [1/621] loss: 0.01, (pos: 0.78, neg: 0.03)
+[2025-05-01 00:41:15,844] INFO: Epoch-6 -- Iter [10/621] loss: 0.01, (pos: 0.75, neg: 0.00)
+[2025-05-01 00:42:07,195] INFO: Epoch-6 -- Iter [20/621] loss: 0.03, (pos: 0.76, neg: -0.00)
+[2025-05-01 00:42:58,590] INFO: Epoch-6 -- Iter [30/621] loss: 0.01, (pos: 0.80, neg: 0.05)
+[2025-05-01 00:43:49,648] INFO: Epoch-6 -- Iter [40/621] loss: 0.01, (pos: 0.77, neg: -0.00)
+[2025-05-01 00:44:40,637] INFO: Epoch-6 -- Iter [50/621] loss: 0.01, (pos: 0.78, neg: 0.03)
+[2025-05-01 00:45:31,519] INFO: Epoch-6 -- Iter [60/621] loss: 0.01, (pos: 0.77, neg: 0.04)
+[2025-05-01 00:46:21,889] INFO: Epoch-6 -- Iter [70/621] loss: 0.03, (pos: 0.75, neg: 0.04)
+[2025-05-01 00:47:12,695] INFO: Epoch-6 -- Iter [80/621] loss: 0.06, (pos: 0.77, neg: 0.02)
+[2025-05-01 00:48:03,480] INFO: Epoch-6 -- Iter [90/621] loss: 0.05, (pos: 0.78, neg: 0.05)
+[2025-05-01 00:48:54,176] INFO: Epoch-6 -- Iter [100/621] loss: 0.04, (pos: 0.75, neg: 0.02)
+[2025-05-01 00:49:45,046] INFO: Epoch-6 -- Iter [110/621] loss: 0.03, (pos: 0.76, neg: 0.05)
+[2025-05-01 00:50:35,759] INFO: Epoch-6 -- Iter [120/621] loss: 0.01, (pos: 0.78, neg: 0.00)
+[2025-05-01 00:51:25,843] INFO: Epoch-6 -- Iter [130/621] loss: 0.03, (pos: 0.80, neg: 0.01)
+[2025-05-01 00:52:16,590] INFO: Epoch-6 -- Iter [140/621] loss: 0.01, (pos: 0.78, neg: 0.02)
+[2025-05-01 00:53:07,087] INFO: Epoch-6 -- Iter [150/621] loss: 0.02, (pos: 0.77, neg: 0.03)
+[2025-05-01 00:53:57,731] INFO: Epoch-6 -- Iter [160/621] loss: 0.03, (pos: 0.78, neg: 0.02)
+[2025-05-01 00:54:48,290] INFO: Epoch-6 -- Iter [170/621] loss: 0.03, (pos: 0.75, neg: -0.01)
+[2025-05-01 00:55:38,716] INFO: Epoch-6 -- Iter [180/621] loss: 0.04, (pos: 0.78, neg: 0.03)
+[2025-05-01 00:56:29,201] INFO: Epoch-6 -- Iter [190/621] loss: 0.02, (pos: 0.78, neg: 0.00)
+[2025-05-01 00:57:20,107] INFO: Epoch-6 -- Iter [200/621] loss: 0.01, (pos: 0.79, neg: 0.02)
+[2025-05-01 00:58:10,592] INFO: Epoch-6 -- Iter [210/621] loss: 0.01, (pos: 0.78, neg: 0.02)
+[2025-05-01 00:59:01,399] INFO: Epoch-6 -- Iter [220/621] loss: 0.05, (pos: 0.76, neg: 0.02)
+[2025-05-01 00:59:52,234] INFO: Epoch-6 -- Iter [230/621] loss: 0.05, (pos: 0.75, neg: 0.01)
+[2025-05-01 01:00:42,979] INFO: Epoch-6 -- Iter [240/621] loss: 0.05, (pos: 0.79, neg: 0.07)
+[2025-05-01 01:01:33,428] INFO: Epoch-6 -- Iter [250/621] loss: 0.04, (pos: 0.72, neg: 0.01)
+[2025-05-01 01:02:23,992] INFO: Epoch-6 -- Iter [260/621] loss: 0.05, (pos: 0.79, neg: 0.04)
+[2025-05-01 01:03:14,369] INFO: Epoch-6 -- Iter [270/621] loss: 0.11, (pos: 0.74, neg: 0.04)
+[2025-05-01 01:04:04,732] INFO: Epoch-6 -- Iter [280/621] loss: 0.02, (pos: 0.77, neg: 0.02)
+[2025-05-01 01:04:55,774] INFO: Epoch-6 -- Iter [290/621] loss: 0.01, (pos: 0.75, neg: 0.01)
+[2025-05-01 01:05:46,463] INFO: Epoch-6 -- Iter [300/621] loss: 0.06, (pos: 0.77, neg: 0.02)

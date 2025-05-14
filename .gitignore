@@ -1,0 +1,14 @@
+# Ignore these files
+Rough_Notes.txt
+test_tless.py
+train_tless.py
+checkpoints/TLESS_Diffusion/
+dataset/*
+dataset/results/samples/*
+dataset/results/vis/*
+**/.ipynb_checkpoints/
+
+# Ignore all the above files except the ones below
+!/dataset/results/
+!/dataset/results/weights/
+!/dataset/results/weights/**/*
